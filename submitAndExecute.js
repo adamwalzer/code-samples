@@ -1,5 +1,5 @@
 // submit form information to the given page. Organize the form information in an array based on the id of the inputs
-function submitForm(theForm,thePage)
+function submitForm(theForm,thePage,javascript)
 {	
 	// create postdata array and find the inputs, text areas and selects in the form that not buttons, submits, or resets.
 	var postdata = {};
@@ -41,11 +41,11 @@ function submitForm(theForm,thePage)
 	});
 
 	// execute the page using the postdata array
-	executePage(thePage,postdata);
+	executePage(thePage,postdata,javascript);
 }
 
 // submit form information to the given page. Organize the form information in an array based on the order of the inputs
-function submitInput(theForm,thePage)
+function submitInput(theForm,thePage,javascript)
 {
 	// create new input array and set variable i as 0.
 	input = new Array();
@@ -73,11 +73,11 @@ function submitInput(theForm,thePage)
 	var postdata = {'input': input};
 	
 	// execute the page using the postdata array
-	executePage(thePage,postdata);
+	executePage(thePage,postdata,javascript);
 }
 
 // get response text from the page based on the postdata and parse the xml response text from the page.
-function executePage(thePage,postdata)
+function executePage(thePage,postdata,javascript)
 {
 	// change the URL variables based on the page string.
 	changeURLVariable(thePage);
@@ -134,6 +134,8 @@ function executePage(thePage,postdata)
 			$this=$(this);
 			updateDiv($this);
 		});
+		
+		eval(javascript);
 		
 	});
 }
