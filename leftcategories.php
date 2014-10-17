@@ -40,7 +40,7 @@ if (@mysqli_num_rows($result_get_category) > 0)//if rows in the database match t
 {
 	// start the main_left div and the main_left_content div.
 	$outputtext .= "<div id='main_left' class='col span_1_of_4 span_1_to_2_of_4'>\n";
-	$outputtext .= "<div id='main_left_content'>\n";
+	$outputtext .= "<div id='main_left_content' class='content'>\n";
 	
 	
 	$outputtext .= '
@@ -91,7 +91,7 @@ if (@mysqli_num_rows($result_get_category) > 0)//if rows in the database match t
 	';
 	
 	// add link to categoriesdiv
-	$outputtext .= "<center><a href='".'javascript:executePage("categoriesdiv")'."'><h2>Categories</h2></a>\n";
+	$outputtext .= "<center><h2>Search For...</h2>\n";
 	
 	// add input checkbox for open preference. make it checked if it's perfered to open show open restaurants.
 	$outputtext .= "<input type='checkbox' id='must_be_open' ";
@@ -129,6 +129,8 @@ if (@mysqli_num_rows($result_get_category) > 0)//if rows in the database match t
 	$outputtext .= "</a></div><br />\n";
 
 	$outputtext .= "<div id='left_categories'>\n";
+	
+	$outputtext .= "<center><a href='".'javascript:executePage("categoriesdiv&loc_id='.$loc_id.'")'."'><h2>Categories</h2></a>\n";
 
 	// set rest_count and category to All Restaurants
 	$rest_count = 0;
@@ -263,7 +265,7 @@ if (@mysqli_num_rows($result_get_category) > 0)//if rows in the database match t
 	{	
 		// make this category an option
 		$selecttext .= "<option slected='selected' value='#".$catname."'>$category</option>\n";
-		$divtext .= "<div id='".$catname."'>\n";
+		$divtext .= "<div id='".$catname."' class='restaurant_category' >\n";
 		
 		for($i = 0; $i< count($rest_rows); $i++) // go through array
 		{
@@ -422,7 +424,7 @@ if (@mysqli_num_rows($result_get_category) > 0)//if rows in the database match t
 		{	
 			$selecttext .= "<option slected='selected' value='#".$catname."'>$category</option>\n";
 			//$selecttext .= "<li><a href='#".$catname."'>$category</a></li>\n";
-			$divtext .= "<div id='".$catname."'>\n";
+			$divtext .= "<div id='".$catname."' class='restaurant_category' >\n";
 		
 			$rest_link = Array();
 		
