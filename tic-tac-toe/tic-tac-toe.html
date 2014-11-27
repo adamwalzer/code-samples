@@ -1,0 +1,214 @@
+<html xml:lang="en">
+	<head>
+		<title>Tic-Tac-Toe</title>
+		<style>
+			body {
+				text-align: center;
+			}
+			
+			.board {
+				font-size: 0px;
+				width: 320px;
+			}
+			
+			.turn {
+				font-size: 28px;
+				height: 50px;
+				width: 100%;
+				color: #000000;
+			}
+			
+			.cell {
+				font-size: 28px;
+				height: 100px;
+				width: 100px;
+				display: inline-block;
+				vertical-align: middle;
+			}
+			
+			.cell-content {
+				display: table-cell;
+				vertical-align: middle;
+				width: 100px;
+				height: 100px;
+			}
+			
+			.A {
+				border-right: solid 5px #000000;
+			}
+			
+			.B {
+				border-left: solid 5px #000000;
+				border-right: solid 5px #000000;
+			}
+			
+			.C {
+				border-left: solid 5px #000000;
+			}
+			
+			.X {
+				border-bottom: solid 5px #000000;
+			}
+			
+			.Y {
+				border-bottom: solid 5px #000000;
+				border-top: solid 5px #000000;
+			}
+			
+			.Z {
+				border-top: solid 5px #000000;
+			}
+			
+			.winner {
+				background-color: red;
+			}
+			
+			.reset {
+				height: 100px;
+				width: 320px;
+				vertical-align: middle;
+				display: table-cell;
+			}
+			
+			button {
+				color: #000000;
+				background-color: #ffffff;
+				border: solid;
+				padding: 10px;
+				width: 80px;
+				font-weight: bold;
+				font-size: 16px;
+			}
+		</style>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.min.js"></script>
+		<script type="text/javascript" language="javascript">
+			angular.module('tictactoeApp', [])
+			  .controller('tictactoeController', ['$scope', function($scope) {
+				$scope.blankBoard = [
+				  {code:'A X', mark:" "},
+				  {code:'B X', mark:" "},
+				  {code:'C X', mark:" "},
+				  {code:'A Y', mark:" "},
+				  {code:'B Y', mark:" "},
+				  {code:'C Y', mark:" "},
+				  {code:'A Z', mark:" "},
+				  {code:'B Z', mark:" "},
+				  {code:'C Z', mark:" "}];
+				
+				$scope.move = function(num) {
+				  if($scope.board[num].mark != " " || $scope.numberOfTurns >= 9) return false;
+				  $scope.board[num].mark = $scope.playerTurn;
+				  $scope.playerTurn = $scope.playerTurn == "X" ? "O" : "X";
+				  $scope.message = "It's "+$scope.playerTurn+"'s turn.";
+				  if(response = $scope.checkWinner())
+				  {
+				  	$scope.numberOfTurns = 9;
+				  	$scope.message = response.winner+" is the winner.";
+					var arrayLength = response.cells.length;
+					for (var i = 0; i < arrayLength; i++) {
+					  $scope.board[response.cells[i]].code += " winner"; 
+					}
+				  }
+				  else if($scope.numberOfTurns == 8)
+				  {
+				  	$scope.message = "Tie game.";
+				  }
+				  $scope.numberOfTurns++;
+				};
+				
+				$scope.checkWinner =  function() {
+				  if($scope.numberOfTurns < 4) return false;
+				  
+				  for(j = 0; j < 3; j++)
+				  {
+				    count = 0;
+				    collection = [];
+				    for(k = 0; k < 3; k++)
+				    {
+				      count += $scope.board[j+3*k].mark == "X" ? 1 : $scope.board[j+3*k].mark == "O" ? -1 : 0;
+				      collection.push(j+3*k);
+				      if(count == 3)
+				      {
+				      	return {winner:"X",cells:collection};
+				      }
+				      else if(count == -3)
+				      {
+				      	return {winner:"O",cells:collection};
+				      }
+				    }
+				  }
+				  
+				  for(k = 0; k < 3; k++)
+				  {
+				    count = 0;
+				    collection = [];
+				    for(j = 0; j < 3; j++)
+				    {
+				      count += $scope.board[j+3*k].mark == "X" ? 1 : $scope.board[j+3*k].mark == "O" ? -1 : 0;
+				      collection.push(j+3*k);
+				      if(count == 3)
+				      {
+				      	return {winner:"X",cells:collection};
+				      }
+				      else if(count == -3)
+				      {
+				      	return {winner:"O",cells:collection};
+				      }
+				    }
+				  }
+				  
+				  count = 0;
+				  collection = [];
+				  for(j = 0; j < 3; j++)
+				  {
+				    count += $scope.board[4*j].mark == "X" ? 1 : $scope.board[4*j].mark == "O" ? -1 : 0;
+				    collection.push(4*j);
+				    if(count == 3)
+				      {
+				      	return {winner:"X",cells:collection};
+				      }
+				      else if(count == -3)
+				      {
+				      	return {winner:"O",cells:collection};
+				      }
+				  }
+				  
+				  count = 0;
+				  collection = [];
+				  for(j = 0; j < 3; j++)
+				  {
+				    count += $scope.board[j+3*(2-j)].mark == "X" ? 1 : $scope.board[6-2*j].mark == "O" ? -1 : 0;
+				    collection.push(6-2*j);
+				    if(count == 3)
+				      {
+				      	return {winner:"X",cells:collection};
+				      }
+				      else if(count == -3)
+				      {
+				      	return {winner:"O",cells:collection};
+				      }
+				  }
+				};
+				
+				$scope.reset = function() {
+				  $scope.board = angular.copy($scope.blankBoard);
+				  $scope.playerTurn = "X";
+				  $scope.message = "It's "+$scope.playerTurn+"'s turn.";
+				  $scope.numberOfTurns = 0;
+				};
+				$scope.reset();
+			  }]);
+		</script>
+	</head>
+	<body ng-app="tictactoeApp">
+		<div ng-controller="tictactoeController" class="board">
+			<div class="turn">
+				{{message}}
+			</div>
+			<div ng-repeat="cell in board" ng-click="move($index)" class="cell {{cell.code}}"><div class="cell-content">{{cell.mark}}</div></div>
+			<div class="reset">
+				<button ng-click="reset()">reset</button>
+			</div>
+		</div>
+	</body>
+</html>
