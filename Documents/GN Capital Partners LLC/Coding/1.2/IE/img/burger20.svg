@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="200"
+   height="200"
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="burger19.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1232"
+     inkscape:window-height="764"
+     id="namedview3136"
+     showgrid="false"
+     inkscape:zoom="1.8625"
+     inkscape:cx="105.38868"
+     inkscape:cy="111.59028"
+     inkscape:window-x="55"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Polkadots-medwhite"
+       id="pattern7217"
+       patternTransform="scale(10.127702,7.2221243)" />
+    <pattern
+       inkscape:stockid="Polka dots, medium white"
+       id="Polkadots-medwhite"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="10"
+       width="10"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle6708"
+         r="0.15"
+         cy="0.810"
+         cx="2.567"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6710"
+         r="0.15"
+         cy="2.33"
+         cx="3.048"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6712"
+         r="0.15"
+         cy="2.415"
+         cx="4.418"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6714"
+         r="0.15"
+         cy="3.029"
+         cx="1.844"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6716"
+         r="0.15"
+         cy="1.363"
+         cx="6.08"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6718"
+         r="0.15"
+         cy="4.413"
+         cx="5.819"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6720"
+         r="0.15"
+         cy="4.048"
+         cx="4.305"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6722"
+         r="0.15"
+         cy="3.045"
+         cx="5.541"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6724"
+         r="0.15"
+         cy="5.527"
+         cx="4.785"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6726"
+         r="0.15"
+         cy="5.184"
+         cx="2.667"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6728"
+         r="0.15"
+         cy="1.448"
+         cx="7.965"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6730"
+         r="0.15"
+         cy="5.049"
+         cx="7.047"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6732"
+         r="0.15"
+         cy="0.895"
+         cx="4.340"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6734"
+         r="0.15"
+         cy="0.340"
+         cx="7.125"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6736"
+         r="0.15"
+         cy="1.049"
+         cx="9.553"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6738"
+         r="0.15"
+         cy="2.689"
+         cx="7.006"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6740"
+         r="0.15"
+         cy="2.689"
+         cx="8.909"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6742"
+         r="0.15"
+         cy="4.407"
+         cx="9.315"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6744"
+         r="0.15"
+         cy="3.870"
+         cx="7.820"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6746"
+         r="0.15"
+         cy="5.948"
+         cx="8.270"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6748"
+         r="0.15"
+         cy="7.428"
+         cx="7.973"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6750"
+         r="0.15"
+         cy="8.072"
+         cx="9.342"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6752"
+         r="0.15"
+         cy="9.315"
+         cx="8.206"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6754"
+         r="0.15"
+         cy="9.475"
+         cx="9.682"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6756"
+         r="0.15"
+         cy="6.186"
+         cx="9.688"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6758"
+         r="0.15"
+         cy="6.296"
+         cx="3.379"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6760"
+         r="0.15"
+         cy="8.204"
+         cx="2.871"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6762"
+         r="0.15"
+         cy="8.719"
+         cx="4.59"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6764"
+         r="0.15"
+         cy="9.671"
+         cx="3.181"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6766"
+         r="0.15"
+         cy="7.315"
+         cx="5.734"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6768"
+         r="0.15"
+         cy="6.513"
+         cx="6.707"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6770"
+         r="0.15"
+         cy="9.670"
+         cx="5.730"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6772"
+         r="0.15"
+         cy="8.373"
+         cx="6.535"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6774"
+         r="0.15"
+         cy="7.154"
+         cx="4.37"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6776"
+         r="0.15"
+         cy="7.25"
+         cx="0.622"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6778"
+         r="0.15"
+         cy="5.679"
+         cx="0.831"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6780"
+         r="0.15"
+         cy="8.519"
+         cx="1.257"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6782"
+         r="0.15"
+         cy="6.877"
+         cx="1.989"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6784"
+         r="0.15"
+         cy="3.181"
+         cx="0.374"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6786"
+         r="0.15"
+         cy="1.664"
+         cx="1.166"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6788"
+         r="0.15"
+         cy="0.093"
+         cx="1.151"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6790"
+         r="0.15"
+         cy="10.093"
+         cx="1.151"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6792"
+         r="0.15"
+         cy="4.451"
+         cx="1.302"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle6794"
+         r="0.15"
+         cy="3.763"
+         cx="3.047"
+         style="fill:white;stroke:none" />
+    </pattern>
+    <pattern
+       patternTransform="scale(8.001756,9.5917554)"
+       id="pattern4782"
+       xlink:href="#Polkadots-med-71-109-882" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Polkadots-med-71-109-882">
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="2.567"
+         cy="0.810"
+         r="0.15"
+         id="circle4610" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="3.048"
+         cy="2.33"
+         r="0.15"
+         id="circle4612" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.418"
+         cy="2.415"
+         r="0.15"
+         id="circle4614" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.844"
+         cy="3.029"
+         r="0.15"
+         id="circle4616" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="6.08"
+         cy="1.363"
+         r="0.15"
+         id="circle4618" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="5.819"
+         cy="4.413"
+         r="0.15"
+         id="circle4620" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.305"
+         cy="4.048"
+         r="0.15"
+         id="circle4622" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="5.541"
+         cy="3.045"
+         r="0.15"
+         id="circle4624" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.785"
+         cy="5.527"
+         r="0.15"
+         id="circle4626" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="2.667"
+         cy="5.184"
+         r="0.15"
+         id="circle4628" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.965"
+         cy="1.448"
+         r="0.15"
+         id="circle4630" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.047"
+         cy="5.049"
+         r="0.15"
+         id="circle4632" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.340"
+         cy="0.895"
+         r="0.15"
+         id="circle4634" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.125"
+         cy="0.340"
+         r="0.15"
+         id="circle4636" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="9.553"
+         cy="1.049"
+         r="0.15"
+         id="circle4638" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.006"
+         cy="2.689"
+         r="0.15"
+         id="circle4640" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="8.909"
+         cy="2.689"
+         r="0.15"
+         id="circle4642" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="9.315"
+         cy="4.407"
+         r="0.15"
+         id="circle4644" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.820"
+         cy="3.870"
+         r="0.15"
+         id="circle4646" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="8.270"
+         cy="5.948"
+         r="0.15"
+         id="circle4648" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="7.973"
+         cy="7.428"
+         r="0.15"
+         id="circle4650" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="9.342"
+         cy="8.072"
+         r="0.15"
+         id="circle4652" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="8.206"
+         cy="9.315"
+         r="0.15"
+         id="circle4654" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="9.682"
+         cy="9.475"
+         r="0.15"
+         id="circle4656" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="9.688"
+         cy="6.186"
+         r="0.15"
+         id="circle4658" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="3.379"
+         cy="6.296"
+         r="0.15"
+         id="circle4660" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="2.871"
+         cy="8.204"
+         r="0.15"
+         id="circle4662" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.59"
+         cy="8.719"
+         r="0.15"
+         id="circle4664" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="3.181"
+         cy="9.671"
+         r="0.15"
+         id="circle4666" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="5.734"
+         cy="7.315"
+         r="0.15"
+         id="circle4668" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="6.707"
+         cy="6.513"
+         r="0.15"
+         id="circle4670" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="5.730"
+         cy="9.670"
+         r="0.15"
+         id="circle4672" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="6.535"
+         cy="8.373"
+         r="0.15"
+         id="circle4674" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="4.37"
+         cy="7.154"
+         r="0.15"
+         id="circle4676" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="0.622"
+         cy="7.25"
+         r="0.15"
+         id="circle4678" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="0.831"
+         cy="5.679"
+         r="0.15"
+         id="circle4680" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.257"
+         cy="8.519"
+         r="0.15"
+         id="circle4682" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.989"
+         cy="6.877"
+         r="0.15"
+         id="circle4684" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="0.374"
+         cy="3.181"
+         r="0.15"
+         id="circle4686" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.166"
+         cy="1.664"
+         r="0.15"
+         id="circle4688" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.151"
+         cy="0.093"
+         r="0.15"
+         id="circle4690" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.151"
+         cy="10.093"
+         r="0.15"
+         id="circle4692" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="1.302"
+         cy="4.451"
+         r="0.15"
+         id="circle4694" />
+      <circle
+         style="fill:#00f59d;stroke:none"
+         cx="3.047"
+         cy="3.763"
+         r="0.15"
+         id="circle4696" />
+    </pattern>
+    <pattern
+       patternTransform="scale(8.001756,9.5917554)"
+       id="pattern4782-554"
+       xlink:href="#Polkadots-med-71-109-882-986" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Polkadots-med-71-109-882-986">
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="2.567"
+         cy="0.810"
+         r="0.15"
+         id="circle5377" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="3.048"
+         cy="2.33"
+         r="0.15"
+         id="circle5379" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.418"
+         cy="2.415"
+         r="0.15"
+         id="circle5381" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.844"
+         cy="3.029"
+         r="0.15"
+         id="circle5383" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="6.08"
+         cy="1.363"
+         r="0.15"
+         id="circle5385" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="5.819"
+         cy="4.413"
+         r="0.15"
+         id="circle5387" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.305"
+         cy="4.048"
+         r="0.15"
+         id="circle5389" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="5.541"
+         cy="3.045"
+         r="0.15"
+         id="circle5391" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.785"
+         cy="5.527"
+         r="0.15"
+         id="circle5393" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="2.667"
+         cy="5.184"
+         r="0.15"
+         id="circle5395" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.965"
+         cy="1.448"
+         r="0.15"
+         id="circle5397" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.047"
+         cy="5.049"
+         r="0.15"
+         id="circle5399" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.340"
+         cy="0.895"
+         r="0.15"
+         id="circle5401" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.125"
+         cy="0.340"
+         r="0.15"
+         id="circle5403" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="9.553"
+         cy="1.049"
+         r="0.15"
+         id="circle5405" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.006"
+         cy="2.689"
+         r="0.15"
+         id="circle5407" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="8.909"
+         cy="2.689"
+         r="0.15"
+         id="circle5409" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="9.315"
+         cy="4.407"
+         r="0.15"
+         id="circle5411" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.820"
+         cy="3.870"
+         r="0.15"
+         id="circle5413" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="8.270"
+         cy="5.948"
+         r="0.15"
+         id="circle5415" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="7.973"
+         cy="7.428"
+         r="0.15"
+         id="circle5417" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="9.342"
+         cy="8.072"
+         r="0.15"
+         id="circle5419" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="8.206"
+         cy="9.315"
+         r="0.15"
+         id="circle5421" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="9.682"
+         cy="9.475"
+         r="0.15"
+         id="circle5423" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="9.688"
+         cy="6.186"
+         r="0.15"
+         id="circle5425" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="3.379"
+         cy="6.296"
+         r="0.15"
+         id="circle5427" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="2.871"
+         cy="8.204"
+         r="0.15"
+         id="circle5429" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.59"
+         cy="8.719"
+         r="0.15"
+         id="circle5431" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="3.181"
+         cy="9.671"
+         r="0.15"
+         id="circle5433" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="5.734"
+         cy="7.315"
+         r="0.15"
+         id="circle5435" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="6.707"
+         cy="6.513"
+         r="0.15"
+         id="circle5437" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="5.730"
+         cy="9.670"
+         r="0.15"
+         id="circle5439" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="6.535"
+         cy="8.373"
+         r="0.15"
+         id="circle5441" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="4.37"
+         cy="7.154"
+         r="0.15"
+         id="circle5443" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="0.622"
+         cy="7.25"
+         r="0.15"
+         id="circle5445" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="0.831"
+         cy="5.679"
+         r="0.15"
+         id="circle5447" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.257"
+         cy="8.519"
+         r="0.15"
+         id="circle5449" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.989"
+         cy="6.877"
+         r="0.15"
+         id="circle5451" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="0.374"
+         cy="3.181"
+         r="0.15"
+         id="circle5453" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.166"
+         cy="1.664"
+         r="0.15"
+         id="circle5455" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.151"
+         cy="0.093"
+         r="0.15"
+         id="circle5457" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.151"
+         cy="10.093"
+         r="0.15"
+         id="circle5459" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="1.302"
+         cy="4.451"
+         r="0.15"
+         id="circle5461" />
+      <circle
+         style="fill:#000000;stroke:none"
+         cx="3.047"
+         cy="3.763"
+         r="0.15"
+         id="circle5463" />
+    </pattern>
+    <pattern
+       patternTransform="scale(8.001756,9.5917554)"
+       id="pattern4782-452"
+       xlink:href="#Polkadots-med-71-109-882-194" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Polkadots-med-71-109-882-194">
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="2.567"
+         cy="0.810"
+         r="0.15"
+         id="circle5734" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="3.048"
+         cy="2.33"
+         r="0.15"
+         id="circle5736" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.418"
+         cy="2.415"
+         r="0.15"
+         id="circle5738" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.844"
+         cy="3.029"
+         r="0.15"
+         id="circle5740" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="6.08"
+         cy="1.363"
+         r="0.15"
+         id="circle5742" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="5.819"
+         cy="4.413"
+         r="0.15"
+         id="circle5744" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.305"
+         cy="4.048"
+         r="0.15"
+         id="circle5746" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="5.541"
+         cy="3.045"
+         r="0.15"
+         id="circle5748" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.785"
+         cy="5.527"
+         r="0.15"
+         id="circle5750" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="2.667"
+         cy="5.184"
+         r="0.15"
+         id="circle5752" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.965"
+         cy="1.448"
+         r="0.15"
+         id="circle5754" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.047"
+         cy="5.049"
+         r="0.15"
+         id="circle5756" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.340"
+         cy="0.895"
+         r="0.15"
+         id="circle5758" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.125"
+         cy="0.340"
+         r="0.15"
+         id="circle5760" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="9.553"
+         cy="1.049"
+         r="0.15"
+         id="circle5762" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.006"
+         cy="2.689"
+         r="0.15"
+         id="circle5764" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="8.909"
+         cy="2.689"
+         r="0.15"
+         id="circle5766" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="9.315"
+         cy="4.407"
+         r="0.15"
+         id="circle5768" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.820"
+         cy="3.870"
+         r="0.15"
+         id="circle5770" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="8.270"
+         cy="5.948"
+         r="0.15"
+         id="circle5772" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="7.973"
+         cy="7.428"
+         r="0.15"
+         id="circle5774" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="9.342"
+         cy="8.072"
+         r="0.15"
+         id="circle5776" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="8.206"
+         cy="9.315"
+         r="0.15"
+         id="circle5778" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="9.682"
+         cy="9.475"
+         r="0.15"
+         id="circle5780" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="9.688"
+         cy="6.186"
+         r="0.15"
+         id="circle5782" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="3.379"
+         cy="6.296"
+         r="0.15"
+         id="circle5784" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="2.871"
+         cy="8.204"
+         r="0.15"
+         id="circle5786" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.59"
+         cy="8.719"
+         r="0.15"
+         id="circle5788" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="3.181"
+         cy="9.671"
+         r="0.15"
+         id="circle5790" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="5.734"
+         cy="7.315"
+         r="0.15"
+         id="circle5792" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="6.707"
+         cy="6.513"
+         r="0.15"
+         id="circle5794" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="5.730"
+         cy="9.670"
+         r="0.15"
+         id="circle5796" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="6.535"
+         cy="8.373"
+         r="0.15"
+         id="circle5798" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="4.37"
+         cy="7.154"
+         r="0.15"
+         id="circle5800" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="0.622"
+         cy="7.25"
+         r="0.15"
+         id="circle5802" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="0.831"
+         cy="5.679"
+         r="0.15"
+         id="circle5804" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.257"
+         cy="8.519"
+         r="0.15"
+         id="circle5806" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.989"
+         cy="6.877"
+         r="0.15"
+         id="circle5808" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="0.374"
+         cy="3.181"
+         r="0.15"
+         id="circle5810" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.166"
+         cy="1.664"
+         r="0.15"
+         id="circle5812" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.151"
+         cy="0.093"
+         r="0.15"
+         id="circle5814" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.151"
+         cy="10.093"
+         r="0.15"
+         id="circle5816" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="1.302"
+         cy="4.451"
+         r="0.15"
+         id="circle5818" />
+      <circle
+         style="fill:#ff3a00;stroke:none"
+         cx="3.047"
+         cy="3.763"
+         r="0.15"
+         id="circle5820" />
+    </pattern>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-852.36218)"
+     id="layer1">
+    <path
+       d="m 147.48227,109.59135 a 36.870567,36.870567 0 1 1 -73.741135,0 l 36.870565,0 z"
+       transform="matrix(2.5901446,0,0,0.92216628,-186.5004,913.80014)"
+       id="path2985"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.23495935999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="matrix(1.1720096,0,0,0.80094517,-0.27682029,62.681739)"
+       id="text2992"
+       style="font-size:78.80221558px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#003f1f;fill-opacity:1;stroke:none;font-family:Cheeseburger;-inkscape-font-specification:Cheeseburger" />
+    <path
+       d="m 39.39595,77.013929 a 40.153564,40.153564 0 0 1 80.30713,2e-6 l -40.153565,0 z"
+       id="path5030"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.06251286999999994;stroke-miterlimit:5;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(2.3783696,0,0,1.120701,-89.198179,813.55263)" />
+    <path
+       style="font-size:78.42922210999998356px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cheeseburger;-inkscape-font-specification:Cheeseburger Bold"
+       d="M 32.25 54.1875 C 25.706388 54.18754 19.868774 55.542763 14.71875 58.25 C 7.5692683 62.085339 4.0994792 67.912798 4.28125 75.71875 C 4.4024227 81.71989 6.2377565 86.275512 9.8125 89.34375 C 12.963102 92.096149 17.098027 93.468751 22.1875 93.46875 C 25.943977 93.468751 29.714128 92.707753 33.53125 91.21875 C 37.348304 89.729753 40.617215 87.714297 43.34375 85.1875 C 44.010182 84.600933 44.343705 82.804386 44.34375 79.78125 C 44.343705 74.05087 43.608425 69.950444 42.09375 67.46875 C 41.851353 67.107807 40.552332 66.937527 38.25 66.9375 C 35.220526 66.937527 32.285139 67.208572 29.4375 67.75 C 26.105092 68.336602 24.236597 69.083729 23.8125 70.03125 C 23.267177 71.339789 22.999977 72.423968 23 73.28125 C 22.999977 74.589786 23.600701 75.149254 24.8125 74.96875 C 26.145426 74.788284 27.046512 74.718769 27.53125 74.71875 C 28.864173 74.718769 29.498059 75.160094 29.4375 76.0625 C 29.376881 77.506397 27.742426 78.33691 24.53125 78.5625 C 23.198274 78.697879 21.897342 78.492842 20.625 77.90625 C 19.049673 77.139206 18.281231 76.006399 18.28125 74.5625 C 18.281231 73.84058 18.48211 73.027446 18.90625 72.125 C 20.299771 69.282385 21.567542 67.433702 22.71875 66.53125 C 24.657565 64.906914 27.692436 64.09378 31.8125 64.09375 C 33.751306 64.09378 36.019647 64.26406 38.625 64.625 C 39.109671 64.670151 39.34371 64.211448 39.34375 63.21875 C 39.34371 60.737114 38.442624 57.925903 36.625 54.8125 C 36.382608 54.406448 34.91587 54.18754 32.25 54.1875 z M 119.375 54.34375 C 107.25722 55.246214 97.686441 55.975962 90.71875 56.5625 C 88.840491 56.607659 87.639043 56.809189 87.09375 57.125 C 86.306091 57.531128 85.906246 58.431155 85.90625 59.875 C 85.906246 60.416489 85.972568 61.076722 86.09375 61.84375 C 86.396689 64.776661 86.628817 66.402929 86.75 66.71875 C 86.99235 67.756565 87.526751 68.281276 88.375 68.28125 C 88.920291 68.281276 90.022256 68.02761 91.71875 67.53125 C 93.475812 67.034943 94.843067 66.781277 95.8125 66.78125 C 97.690735 66.781277 98.58991 67.61179 98.46875 69.28125 C 98.286967 77.538458 98.121161 84.516102 98 90.15625 C 97.878806 91.419648 98.245491 92.319675 99.09375 92.90625 C 100.12374 93.628191 101.85768 93.965243 104.28125 93.875 C 108.88597 93.649394 111.18747 92.499208 111.1875 90.46875 C 111.18747 90.017542 111.05483 89.458074 110.8125 88.78125 C 109.41893 84.584982 108.71872 79.959846 108.71875 74.90625 C 108.71872 73.372148 108.88453 72.152447 109.1875 71.25 C 109.67218 69.445174 111.0726 68.562526 113.375 68.5625 C 113.79909 68.562526 114.46614 68.597283 115.375 68.6875 C 116.34439 68.732647 117.04459 68.750025 117.46875 68.75 C 120.13462 68.569541 121.60327 68.434018 121.90625 68.34375 C 123.42093 68.027927 124.18746 67.232172 124.1875 65.96875 C 124.18746 65.607808 124.25569 64.742539 124.4375 63.34375 C 124.61922 61.945023 124.71871 60.826087 124.71875 59.96875 C 124.71871 55.998117 122.9497 54.118184 119.375 54.34375 z M 159.125 54.34375 C 147.00722 55.246214 137.46769 55.975962 130.5 56.5625 C 128.62174 56.607659 127.42029 56.809189 126.875 57.125 C 126.08734 57.531128 125.6875 58.431155 125.6875 59.875 C 125.6875 60.416489 125.75382 61.076722 125.875 61.84375 C 126.17794 64.776661 126.37882 66.402929 126.5 66.71875 C 126.74235 67.756565 127.27675 68.281276 128.125 68.28125 C 128.67029 68.281276 129.80351 68.02761 131.5 67.53125 C 133.25706 67.034943 134.62432 66.781277 135.59375 66.78125 C 137.47199 66.781277 138.33991 67.61179 138.21875 69.28125 C 138.03697 77.538458 137.90241 84.516102 137.78125 90.15625 C 137.66006 91.419648 137.99549 92.319675 138.84375 92.90625 C 139.87374 93.628191 141.60768 93.965243 144.03125 93.875 C 148.63597 93.649394 150.93747 92.499208 150.9375 90.46875 C 150.93747 90.017542 150.83608 89.458074 150.59375 88.78125 C 149.20018 84.584982 148.49997 79.959846 148.5 74.90625 C 148.49997 73.372148 148.63453 72.152447 148.9375 71.25 C 149.42218 69.445174 150.8226 68.562526 153.125 68.5625 C 153.54909 68.562526 154.21614 68.597283 155.125 68.6875 C 156.09439 68.732647 156.79459 68.750025 157.21875 68.75 C 159.88462 68.569541 161.35327 68.434018 161.65625 68.34375 C 163.17093 68.027927 163.93746 67.232172 163.9375 65.96875 C 163.93746 65.607808 164.03694 64.742539 164.21875 63.34375 C 164.40047 61.945023 164.49996 60.826087 164.5 59.96875 C 164.49996 55.998117 162.6997 54.118184 159.125 54.34375 z M 64.5625 54.59375 C 59.715383 54.59379 55.611708 57.252099 52.21875 62.53125 C 49.249895 67.223888 47.749995 72.220834 47.75 77.5 C 47.749995 82.237745 49.216734 86.067126 52.125 89 C 55.093837 91.932884 59.029795 93.406251 63.9375 93.40625 C 69.996349 93.406251 74.899715 92.339451 78.65625 90.21875 C 83.624488 87.376117 86.124957 82.820496 86.125 76.59375 C 86.124957 70.051191 83.825366 64.678928 79.28125 60.4375 C 75.100594 56.557109 70.197228 54.59379 64.5625 54.59375 z M 181.28125 56.84375 C 176.79766 56.843787 172.1615 57.622164 167.375 59.15625 C 167.13263 59.201406 167.03315 59.2883 167.09375 59.46875 L 168.90625 68.46875 C 168.90624 68.649261 169.13837 68.750025 169.5625 68.75 C 169.80484 68.750025 170.57328 68.631882 171.90625 68.40625 C 173.29977 68.135548 174.43299 68.000026 175.28125 68 C 177.09889 68.000026 178.36666 68.542115 179.09375 69.625 C 179.63903 70.392085 179.80483 71.35812 179.5625 72.53125 C 173.68537 73.072726 168.98289 74.546093 165.46875 76.9375 C 162.19695 79.148457 160.5625 81.622616 160.5625 84.375 C 160.5625 85.412798 160.79654 86.427461 161.28125 87.375 C 162.6142 90.037159 165.24922 91.375003 169.1875 91.375 C 172.03516 91.375003 174.67018 90.832914 177.09375 89.75 C 180.24434 88.396368 182.71165 87.670128 184.46875 87.625 C 184.40813 87.895734 184.27549 88.555967 184.09375 89.59375 C 184.03313 90.270573 183.99997 90.760526 184 91.03125 C 184.06056 91.392223 184.25953 91.545124 184.5625 91.5 L 195.46875 90.21875 C 195.71107 90.173633 195.81246 90.055489 195.8125 89.875 L 196.90625 72.40625 C 197.63327 62.028392 192.42955 56.843787 181.28125 56.84375 z M 67.65625 72 C 69.110354 72.000022 69.777401 73.066822 69.65625 75.1875 C 69.35328 76.586277 68.286388 77.281267 66.46875 77.28125 C 65.499308 77.281267 65.031228 76.739178 65.03125 75.65625 C 65.031228 74.798965 65.298429 73.985832 65.84375 73.21875 C 66.389026 72.406589 66.98975 72.000022 67.65625 72 z M 180.8125 76.9375 C 181.11542 78.922851 180.6805 80.649883 179.46875 82.09375 C 178.43872 83.312035 177.20602 83.90626 175.8125 83.90625 C 175.20659 83.90626 174.63903 83.718602 174.09375 83.3125 C 173.60902 82.90642 173.37498 82.482474 173.375 82.03125 C 173.37498 80.45202 175.8442 78.742366 180.8125 76.9375 z M 178.90625 95.09375 C 175.74234 95.232941 173.95874 95.336746 173.53125 95.40625 C 172.16304 95.615006 171.00305 96.317451 170.0625 97.5 C 169.37837 98.265275 167.79223 102.03348 165.3125 108.78125 C 163.17471 114.69434 161.4701 117.68047 160.1875 117.75 C 158.7338 117.8196 157.76302 116.57395 157.25 114 C 156.7369 110.52178 156.24001 107.04081 155.8125 103.5625 C 155.21389 99.388644 151.84415 97.281309 145.6875 97.28125 C 142.95117 97.281309 139.54194 97.751961 135.4375 98.65625 C 132.95771 99.212829 131.29258 100.22669 130.4375 101.6875 C 129.58239 103.07886 128.80906 105.77777 128.125 109.8125 C 126.07276 125.74297 124.44713 139.14784 123.25 150 C 122.65143 153.2 126.36834 154.78125 134.40625 154.78125 C 138.76722 154.78125 143.13899 154.34185 147.5 153.4375 C 148.95363 153.15924 149.65622 152.32881 149.65625 150.9375 C 149.65622 149.61577 148.76442 147.14865 146.96875 143.53125 C 145.25853 139.91387 144.40622 137.47094 144.40625 136.21875 C 144.40622 134.47964 145.48723 133.59377 147.625 133.59375 C 149.84822 133.59377 152.13695 136.19594 154.53125 141.34375 C 156.92548 146.49159 158.97727 149.00707 160.6875 148.9375 C 162.82519 148.93751 164.52157 146.88561 165.71875 142.78125 C 167.00134 138.67692 168.27981 136.62502 169.5625 136.625 C 171.44366 136.55545 172.53291 138.35138 172.875 141.96875 C 172.96045 142.80355 172.99994 145.83805 173 151.125 C 172.99994 153.42066 174.85428 154.59375 178.53125 154.59375 C 179.5573 154.59375 182.03524 154.30652 185.96875 153.75 C 188.96151 153.33261 191.05279 152.78941 192.25 152.09375 C 194.64419 150.63289 196.00163 147.92691 196.34375 144.03125 C 196.77122 138.46605 196.10812 129.79486 194.3125 117.96875 C 192.85876 108.09054 191.65928 101.62342 190.71875 98.5625 C 190.12011 96.753864 188.57346 95.660387 186.09375 95.3125 C 184.98206 95.103865 182.5831 95.024246 178.90625 95.09375 z M 90.125 95.21875 C 83.284212 95.218811 77.444768 99.267176 72.65625 107.40625 C 68.466273 114.64107 66.374994 122.32965 66.375 130.46875 C 66.374994 137.77312 68.426782 143.69702 72.53125 148.21875 C 76.721202 152.74049 82.292453 155 89.21875 155 C 97.769669 155 104.69836 153.36332 110 150.09375 C 117.01173 145.71115 120.49994 138.72502 120.5 129.125 C 120.49994 119.03808 117.28816 110.72668 110.875 104.1875 C 104.9748 98.204949 98.077351 95.218811 90.125 95.21875 z M 55.71875 95.84375 C 55.291143 95.84381 52.268576 96.466636 46.625 97.71875 C 43.119061 98.484025 41.343705 99.753861 41.34375 101.5625 C 41.343705 102.04951 41.493426 102.72777 41.75 103.5625 C 43.289125 109.68429 44.725549 116.98183 46.09375 125.46875 C 46.435738 127.69487 45.930604 128.81253 44.5625 128.8125 C 43.536338 128.81253 42.336857 128.11008 40.96875 126.71875 C 38.061383 123.86661 31.479863 115.787 21.21875 102.5 C 19.850574 100.69136 17.719804 99.812556 14.8125 99.8125 C 12.674745 99.812556 9.4629653 100.56337 5.1875 102.09375 C 3.9048492 102.58076 3.1710125 103.38701 3 104.5 L 3 107.9375 C 2.9999936 111.55494 3.1579552 118.33346 3.5 128.28125 C 3.842031 139.48127 4.1892041 146.52284 4.53125 149.375 C 4.87328 152.15761 7.0040496 153.53125 10.9375 153.53125 C 11.79258 153.53125 15.233062 153.06767 21.21875 152.09375 C 23.014424 151.81549 23.906223 151.03343 23.90625 149.78125 C 23.906223 149.15517 23.748261 148.24512 23.40625 147.0625 C 22.807657 145.46251 22.460484 144.40028 22.375 143.84375 C 21.690898 140.92203 21.343725 138.79051 21.34375 137.46875 C 21.343725 135.38181 21.998581 134.18453 23.28125 133.90625 C 24.563865 133.62801 26.07927 134.80111 27.875 137.375 C 29.927196 140.50545 32.018475 143.61958 34.15625 146.75 C 36.978025 150.64566 41.310305 152.59375 47.125 152.59375 C 49.433705 152.59375 51.951139 152.30653 54.6875 151.75 C 57.423745 151.12392 59.00989 150.18968 59.4375 148.9375 C 59.522947 148.72881 59.641418 146.67691 59.8125 142.78125 L 59.8125 99.90625 C 59.812437 97.193266 58.454994 95.84381 55.71875 95.84375 z M 94.46875 122.03125 C 96.520943 122.03128 97.452232 123.66797 97.28125 126.9375 C 96.853665 129.09405 95.377752 130.15628 92.8125 130.15625 C 91.444316 130.15628 90.749969 129.32584 90.75 127.65625 C 90.749969 126.33454 91.136633 125.08889 91.90625 123.90625 C 92.675803 122.65411 93.528111 122.03128 94.46875 122.03125 z "
+       transform="translate(0,852.36218)"
+       id="text5467" />
+    <path
+       transform="matrix(2.3783696,0,0,1.120701,-89.198179,813.55263)"
+       style="fill:url(#pattern7217);fill-opacity:1;stroke:none"
+       id="path7170"
+       d="m 39.39595,77.013929 c 0,-10.512179 6.721896,-19.94333 14.155129,-27.376559 7.433234,-7.433228 14.264729,-14.050004 24.721412,-11.760692 10.831435,2.371358 22.200789,1.811111 29.350629,10.405632 7.59286,9.127056 12.55884,15.170554 12.55884,25.682733 l -47.975338,3.048888 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccc" />
+  </g>
+</svg>

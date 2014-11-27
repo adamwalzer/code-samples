@@ -1,0 +1,21 @@
+2014-04-18 20:59:49: -- Gottanom: ANALYSIS started by On File Change Incremental on '' (GoodSync 4.8.4.4)
+2014-04-18 20:59:49: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:59:49: Change in: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/js/mobileajax.js
+2014-04-18 20:59:50: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:59:50: Left to Right: Copy File: 1 
+2014-04-18 20:59:50: -- Analysis Completed. Time 00:00:03, Speed: 112 files/s
+2014-04-18 20:59:50: == Gottanom: SYNC started by On File Change Incremental on ''
+2014-04-18 20:59:50: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:59:52: Copy Over '/Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/js/mobileajax.js' -> 'ftp://226.5c3.myftpupload.com/js/mobileajax.js'
+2014-04-18 20:59:52: Source file has changed between Analyze and Sync from '[file] size=99356 accu-time=2014-04-18 20:59:33 attr=644' to 'size=99356 time=2014-04-18 20:59:50', noted in source file state
+2014-04-18 20:59:52: Save State File /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 20:59:53: Save State File ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 20:59:54: Items Synced OK: 1, Errors: 0
+2014-04-18 20:59:54: == Sync Completed. Time: 00:00:04, Speed: 36.7 KB/s
+2014-04-18 20:59:54: --- Do one more Analyze to get latest changes of this Sync ---
+2014-04-18 20:59:54: -- Gottanom: ANALYSIS started by On File Change PostSync Re-Analyze on '' (GoodSync 4.8.4.4)
+2014-04-18 20:59:54: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:59:54: Change in: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/js/mobileajax.js
+2014-04-18 20:59:54: Changes: 0, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:59:54: -- Analysis Completed. Time 00:00:04, Speed: 84 files/s
+2014-04-18 20:59:54: 

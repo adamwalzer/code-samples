@@ -1,0 +1,20 @@
+2014-04-18 20:31:03: -- Gottanom: ANALYSIS started by On File Change Incremental on '' (GoodSync 4.8.4.4)
+2014-04-18 20:31:03: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:31:03: Change in: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/php/mobileviewrestaurantdiv.php
+2014-04-18 20:31:03: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:31:03: Left to Right: Copy File: 1 
+2014-04-18 20:31:03: -- Analysis Completed. Time 00:00:02, Speed: 168 files/s
+2014-04-18 20:31:03: == Gottanom: SYNC started by On File Change Incremental on ''
+2014-04-18 20:31:03: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:31:05: Copy Over '/Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/php/mobileviewrestaurantdiv.php' -> 'ftp://226.5c3.myftpupload.com/php/mobileviewrestaurantdiv.php'
+2014-04-18 20:31:05: Save State File /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 20:31:06: Save State File ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 20:31:07: Items Synced OK: 1, Errors: 0
+2014-04-18 20:31:07: == Sync Completed. Time: 00:00:04, Speed: 6.3 KB/s
+2014-04-18 20:31:07: --- Do one more Analyze to get latest changes of this Sync ---
+2014-04-18 20:31:07: -- Gottanom: ANALYSIS started by On File Change PostSync Re-Analyze on '' (GoodSync 4.8.4.4)
+2014-04-18 20:31:07: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:31:07: Change in: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/php/mobileviewrestaurantdiv.php
+2014-04-18 20:31:07: Changes: 0, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:31:07: -- Analysis Completed. Time 00:00:04, Speed: 84 files/s
+2014-04-18 20:31:07: 

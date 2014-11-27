@@ -1,0 +1,918 @@
+/* style.scss */
+
+
+/* color variables */
+
+$dark-color: #323452; //used to be #1F2033;
+$light-color: #f0e6d7; //used to be rgba(240, 230, 215, 1);
+$div-color: rgba(240, 230, 215, 1);
+$logo-color: #FF3A00;
+$highlight-color: #8BD45A;
+$lowlight-color: #6C00B5;
+
+/* button color variables */
+
+$disabled-background-color: #6B6D9C;
+$disabled-font-color: #FF8C6B; //used to be#9EB391;
+
+/* size variables */
+
+$total-width: 940px;
+$column-width: 40px;
+$gutter-width: 20px;
+$padding-width: 40px;
+$radius-width: 15px;
+$margin-top: 5px;
+$margin-bottom: 2px;
+$shadow-offset: 2px;
+$font-size: 12px;
+
+
+/* mixins */
+
+@mixin height($x, $padding: 0px) {
+	min-height: $x * $column-width + ( $x - 1 ) * $gutter-width - 2 * $padding;
+}
+
+@mixin width($x, $padding: 0px) {
+	width: $x * $column-width + ( $x - 1 ) * $gutter-width - 2 * $padding;
+}
+
+@mixin top($x, $padding: 0px) {
+	top: $x * $column-width + $x * $gutter-width - $padding;
+}
+
+@mixin left($x) {
+	left: $x * $column-width + $x * $gutter-width;
+}
+
+@mixin max-height($x, $padding: 0px) {
+	max-height: $x * $column-width + ( $x - 1 ) * $gutter-width - 2 * $padding;
+}
+
+@mixin block-div($top, $left, $height, $width, $padding: $padding-width) {
+	display: block;
+	position: absolute;
+	background-color:$light-color;
+	background-color:$div-color;
+	//background:$div-color none repeat scroll 0 0;
+	@include top($top);
+	@include left($left);
+	@include height($height, $padding);
+	@include width($width, $padding);
+	padding: $padding;
+	border-radius: $radius-width;
+	opacity: 1;
+	z-index: 1;
+}
+
+@mixin container {
+	display: block;
+	opacity: 1;
+	padding: 0px;
+}
+
+@mixin sortol {
+	font-size: .8*$font-size;
+	font-weight: normal;
+	text-indent:0px;
+    display: block;
+    margin: 5px;
+    padding: 0px;
+    border: solid 2px $dark-color;
+    border-radius: $radius-width;
+	color: $dark-color;
+}
+
+
+/* styles */
+	
+body {
+	font: $font-size arial, helvetica, sans-serif;
+	color: $dark-color;
+	background-color: $light-color;
+	/* background: url('../img/background.jpg') no-repeat center center fixed; */
+	background: $light-color no-repeat center center fixed\9;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment:fixed;
+	margin: 0px;
+	top: 0px;
+	padding-top: 0px;
+	position: absolute;
+	width:100%;
+}
+
+html {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+a {
+	color:$dark-color;
+	font-weight:normal;
+	text-decoration:none;
+	&:active  {color:$dark-color;}
+	&:hover {
+		color:$dark-color;
+		text-decoration:underline;
+		}
+	&:link {color:$dark-color;}
+	&:visited {color:$dark-color;}
+	img {
+    border:none;
+	}
+}
+	
+#bottombar {
+	@include block-div(0,0,1,13, $gutter-width);
+	position: relative;
+	text-align: center;
+	margin-bottom: $gutter-width;
+}
+		
+#bottombarcontent {
+	position:relative;
+	top: 0px;
+	width: $total-width;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: $margin-top;
+	margin-bottom: $margin-bottom;
+	@include container;
+}
+
+#topnav {
+	position: fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height: $margin-top*2 + $gutter-width;
+	margin: 0px;
+	background-color:$dark-color;
+	@include container;
+	z-index: 2;
+}
+
+#topnavtext {
+	color:$light-color;
+	a{color:$light-color;}	
+}
+		
+#topnavcontent {
+	position:relative;
+	top: 0px;
+	width: $total-width;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: $margin-top;
+	margin-bottom: $margin-bottom;
+	@include container;
+}
+
+#content {
+	position: relative;
+	top: $column-width;
+	width: $total-width;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: $column-width;
+	@include container;
+}
+
+#toparea {
+	position: absolute;
+	top:0px;
+	left:0px;
+	width: $total-width;
+	@include height(3);
+	@include container;
+}
+	
+#topbar {
+	@include block-div(0,3,3,13, $gutter-width);
+}
+		
+#toplogo {
+	position: absolute;
+	@include top(1,$gutter-width + $margin-top);
+	@include left(0);
+	@include height(3, 0);
+	@include width(3, 0);
+	@include container();
+}
+
+#socialmenu {
+	/*
+	position: absolute;
+	@include top(1,$gutter-width + $margin-top);
+	@include left(16);
+	@include height(3, 0);
+	@include width(3, 0);
+	@include container();
+	*/
+	float: right;
+	text-align: right;
+}
+	
+	#toplogin {
+		position: absolute;
+		top:0px;
+		left:660px;
+		width:320px;
+		max-width:320px;
+		height: 150px;
+		max-height: 150px;
+		@include container;
+		}
+		
+	#topform {
+		position: absolute;
+		top:10px;
+		width:300px;
+		height: 130px;
+		}
+	
+	#mainarea {
+		position: relative;
+		top: $column-width * 3 + $gutter-width * 3;
+		left:0px;
+		width:960px;
+		}
+		
+#mainleft {
+	position: absolute;
+	background-color:$light-color;
+	background-color:$div-color;
+	//background:$div-color none repeat scroll 0 0;
+	@include top(4, $margin-top + $gutter-width);
+	@include left(0);
+	@include height(5);
+	@include width(3);
+	padding: 0;
+	border-radius: $radius-width;
+	display: block;
+	opacity: 1;
+	z-index: 2;
+	color: $dark-color;
+	text-align: left;
+}
+
+#leftrestaurantmenu {
+	a {
+		color:$dark-color;
+		font-weight:normal;
+		text-decoration:none;
+		&:active  {color:$dark-color;}
+		&:hover {
+			color:$dark-color;
+			text-decoration:underline;
+			}
+		&:link {color:$dark-color;}
+		&:visited {color:$dark-color;}
+	}
+}
+
+#maincontainer {
+	position: absolute;
+	@include top(3);
+	@include left(3);
+	@include height(5, 0);
+	@include width(13, 0);
+	@include container();
+	padding-bottom: 1px;
+}
+
+#mainbody {
+	@include block-div(0,0,5,13);
+	position: relative;
+	margin-bottom:$gutter-width;
+}
+
+#introtopbar {
+	@include block-div(0,3,3,13);
+}
+
+#topnavtext {
+	font-size:1.25*$font-size;
+}
+
+#topbartable {
+	@include height(3,$padding-width);
+	width: 100%;
+	font-size:1.25*$font-size;
+	margin:0px;
+	td.logo {
+		width: 0%;
+		img {
+			@include max-height(3,1.5*$padding-width);
+		}
+	}
+	td.title {
+		text-align: center;
+		width: 60%;
+		font-size: 1.8*$font-size;
+	}
+	td.center {
+		text-align: center;
+		width: 30%;
+	}
+	td.hours {
+		text-align: center;
+		width: 40%;
+		font-size: .75*$font-size;
+	}
+}
+	
+	.alert {
+		position:relative;
+		background-color:rgba(255, 58, 0, 0.7);
+		padding:6px;
+		margin-left: auto;
+		margin-right: auto;
+		display: inline-block;
+		border-radius: 15px;
+		opacity: 1;
+		z-index: 2;
+		}
+
+	#registrationtable {
+		width: 600px;
+		border-spacing:5px;
+	}
+	#registrationtable th.right, td.right {
+		text-align: right;
+		width: 100px;
+	}
+	#registrationtable th.center, td.center {
+		text-align: center;
+		width: 100px;
+	}
+	#registrationtable th.left, td.left {
+		text-align: left;
+		width: 100px;
+	}
+	#registrationtable th.test, td.test {
+		text-align: center !important;
+		color: $logo-color;
+		background: $dark-color none repeat scroll 0 0;
+		border-radius:10px;
+		width: 100px;
+		a {
+			color:$logo-color;
+			font-weight:normal;
+			text-decoration:none;
+			&:active  {color:$logo-color;}
+			&:hover {
+				color:$logo-color;
+				text-decoration:underline;
+				}
+			&:link {color:$logo-color;}
+			&:visited {color:$logo-color;}
+		}
+	}
+	#registrationtable th.optional, td.optional {
+		text-align: center !important;
+		color: #1F2033;
+		width: 100px;
+	}
+	#registrationtable input[type="text"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	#registrationtable input[type="password"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	#registrationtable input[type="number"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	#registrationtable input[type="email"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	#registrationtable input[type="tel"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	#registrationtable select[type="text"] {
+    	width: 95%;
+    	height: 140%;
+		}
+		
+		
+	table input.short {
+    	width: 80%;
+		}
+	table input.exp_month {
+    	width: 36%;
+		}
+	table input.exp_year {
+    	width: 36%;
+		}
+	
+	#loginbutton {
+    	background-color:$highlight-color;
+    	color: $light-color;
+    	font-size:.75*$font-size;
+    	box-shadow:2px 2px 2px;
+    	border-style:none;
+    	cursor:pointer;
+    	}
+    
+    #stylebutton {
+    	background-color:$dark-color;
+    	color: $logo-color;
+    	font-size:$font-size;
+    	box-shadow:3px 3px 2px;
+    	border-style:none;
+    	cursor:pointer;
+    	}
+    	
+    #stylebutton[disabled] {
+    	background-color:$disabled-background-color;
+    	color: $disabled-font-color;
+    	font-size:$font-size;
+    	box-shadow:3px 3px 2px;
+    	border-style:none;
+    	}
+		
+	#registerbutton {
+    	background-color:$dark-color;
+    	color: $logo-color;
+    	font-size:$font-size;
+    	width:100px;
+    	box-shadow:3px 3px 2px;
+    	border-style:none;
+    	cursor:pointer;
+    	}
+    	
+    #registerbutton[disabled] {
+    	background-color:$disabled-background-color;
+    	color: $disabled-font-color;
+    	font-size:$font-size;
+    	width:100px;
+    	box-shadow:3px 3px 2px;
+    	border-style:none;
+    	}
+	
+	hr {
+		display: block;
+		height: 1px;
+		width: 90%;
+    	border: 0;
+    	border-top: 2px solid #003F1F;
+    	margin: 1em 0;
+    	padding: 0;
+    	}
+    	
+p.title {
+	font-size:1.5*$font-size;
+	margin-top:$margin-top;
+	margin-bottom:$margin-top;
+}
+p.title2 {
+	font-size:1.25*$font-size;
+	margin-top:$margin-top;
+	margin-bottom:$margin-top;
+}
+
+#ordertable {
+	tr {
+		height:$column-width;
+	}
+	td {
+		@include width(3);
+		text-align:left;
+	}
+}
+
+#leftorder {
+	text-align:center;
+	a {
+		font-size:.75*$font-size;
+		vertical-align:text-top;
+	}
+	a.orderinfo {
+		font-size:$font-size;
+		vertical-align:text-top;
+	}
+}
+
+#menutable {
+	display: inline-table;
+	width:94%;
+	tr {
+		height:$gutter-width;
+	}
+	td {
+		text-align:center;
+		font-size:$font-size;
+	}
+	th {
+		text-align:center;
+		font-size:$font-size;
+	}
+	td.firstcol {
+		text-align:left;
+		font-size:$font-size;
+	}
+	th.firstcol {
+		text-align:left;
+		font-size:$font-size;
+	}
+	th.category {
+		text-align:left;
+		font-size:1.5*$font-size;
+	}
+	th.subcategory {
+		text-align:left;
+		font-size:1.25*$font-size;
+	}
+	td.notes {
+		text-align:left;
+		font-size:$font-size;
+		font-style:italic
+	}
+	td.allcol {
+		text-align:left;
+		column-span:all;
+		-webkit-column-span:all;
+	}
+	input[type="text"].size
+	{
+		@include width(2,$margin-top*2);
+	}
+	input[type="text"].description
+	{
+		width: 100%;
+	}
+	input[type="number"]
+	{
+		width: 35px;
+	}
+}
+
+#itemtable {
+	display: inline-table;
+	width:94%;
+	tr {
+		height:$gutter-width;
+	}
+	td {
+		text-align:left;
+		font-size:$font-size;
+	}
+	th {
+		text-align:left;
+		font-size:$font-size;
+	}
+	td.firstcol {
+		text-align:left;
+		font-size:$font-size;
+		width:100px;
+	}
+	th.firstcol {
+		text-align:left;
+		font-size:$font-size;
+		width:100px;
+	}
+	th.category {
+		text-align:left;
+		font-size:1.5*$font-size;
+	}
+	th.subcategory {
+		text-align:left;
+		font-size:1.25*$font-size;
+	}
+	td.notes {
+		text-align:left;
+		font-size:$font-size;
+		font-style:italic
+	}
+	td.submit {
+		text-align:center;
+	}
+	td.allcol {
+		text-align:left;
+		column-span:all;
+		-webkit-column-span:all;
+	}
+	input[type="text"].size
+	{
+		@include width(2,$margin-top*2);
+	}
+	input[type="text"].description
+	{
+		width: 100%;
+	}
+	input[type="number"]
+	{
+		width: 35px;
+	}
+	input[type="submit"]
+	{
+		align:center;
+	}
+}
+
+#fullorder {
+	width: 100%;
+	tr, td, th {
+		text-align:center;
+	}
+	tr.money, td.money {
+		text-align:right;
+	}
+	select {
+        width:90%;
+    }
+    input[type="text"] {
+        width:90%;
+    }
+    input[type="email"] {
+        width:90%;
+    }
+    input[type="number"] {
+        width:90%;
+    }
+    input[type="tel"] {
+        width:90%;
+    }
+    input[type="month"] {
+        width:90%;
+    }
+}
+
+#quanitynumber {
+	width: 100%;
+}
+
+table {
+	font-size:$font-size;
+}
+
+tr.delivery-location {
+    @include sortol;
+	border-color: $dark-color;
+}
+
+body.dragging, body.dragging * {
+  cursor: move !important;
+}
+
+.dragged {
+  position: absolute;
+  opacity: 0.5;
+  z-index: 2000;
+}
+
+ol.example li.placeholder {
+  position: relative;
+  /** More li styles **/
+}
+ol.example li.placeholder:before {
+  position: absolute;
+  /** Define arrowhead **/
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/glyphicons-halflings-orange.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+  cursor: pointer; cursor: hand;}
+  /* line 70, ../../vendor/ruby/1.8/bundler/gems/sass-twitter-bootstrap-06795315e047/lib/bootstrap/_mixins.scss */
+  [class^="icon-"]:last-child,
+  [class*=" icon-"]:last-child {
+    *margin-left: 0; }
+
+.icon-cancel {
+  background-position: -312px 0px; }
+  
+.icon-add {
+  background-position: -408px -96px; }
+  
+.icon-pencil {
+  background-position: -0px -72px; }
+
+.icon-move {
+  background-position: -168px -72px; }
+  
+.icon-move-list {
+  background-position: -168px -72px; }
+  
+.icon-move-category {
+  background-position: -168px -72px; }
+  
+.icon-move-subcategory {
+  background-position: -168px -72px; }
+  
+.icon-move-item {
+  background-position: -168px -72px; }
+  
+.icon-move-group {
+  background-position: -168px -72px; }
+  
+.icon-move-option {
+  background-position: -168px -72px; }
+  
+ol {
+  list-style-type: none; }
+  /* line 34, application.css.sass */
+  ol i.icon-move {
+    cursor: pointer; }
+  /* line 36, application.css.sass */
+  ol li.highlight {
+    background: #333333;
+    color: #999999; }
+    /* line 39, application.css.sass */
+    ol li.highlight i.icon-move {
+      background-image: url("../img/glyphicons-halflings-white.png"); }
+
+
+ol {
+  margin: 0 0 0 0;
+  text-indent:0px;
+  margin-left: 0px;
+  padding-left: 0px; }
+  /* line 12, jquery-sortable.css.sass */
+  /*
+  ol li {
+	font-size: .8*$font-size;
+	font-weight: normal;
+	text-indent:0px;
+    display: block;
+    margin: 5px;
+    padding: 0px;
+    border: solid 2px $dark-color;
+    border-radius: $radius-width;
+	color: $dark-color;
+    border-color: $dark-color; }
+  */
+  /* line 19, jquery-sortable.css.sass */
+  ol.category li {
+    @include sortol;
+    border-color: $dark-color; }
+  ol.category-pallet li {
+    @include sortol;
+	border-color: $dark-color; }
+  ol.subcategory li {
+    @include sortol;
+    border-color: $highlight-color; }
+  ol.subcategory-pallet li {
+    @include sortol;
+	border-color: $highlight-color; }
+  ol.item li {
+    @include sortol;
+	border-color: $lowlight-color; }
+  ol.item-pallet li {
+    @include sortol;
+	border-color: $lowlight-color; }
+  ol.group li {
+    @include sortol;
+	border-color: $highlight-color; }
+  ol.group-pallet li {
+    @include sortol;
+	border-color: $highlight-color; }
+  ol.option li {
+    @include sortol;
+	border-color: $lowlight-color; }
+  ol.option-pallet li {
+    @include sortol;
+	border-color: $lowlight-color; }
+  
+  ol li.placeholder {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: none; }
+    /* line 24, jquery-sortable.css.sass */
+    ol li.placeholder:before {
+      position: absolute;
+      content: "";
+      width: 0;
+      height: 0;
+      margin-top: -5px;
+      left: -5px;
+      top: -4px;
+      border: 5px solid transparent;
+      border-left-color: $logo-color;
+      border-right: none; }
+      
+  table tr.placeholder {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    outline: $margin-bottom dotted $lowlight-color;
+	}
+    /* line 24, jquery-sortable.css.sass */
+    table tr.placeholder:before
+    {
+      position: relative;
+      content: "";
+      width: 0;
+      height: 0;
+      margin-top: 0px;
+      left: -5px;
+      top: 0px;
+    }
+    
+div.trash
+{
+	background-image: url("../img/trash.png");
+	background-size: 100px;
+	@include height(2,0);
+	@include width(2,0);
+}
+
+.ui-widget-content {
+	border: 1px solid $dark-color;
+	background: $light-color /* url(images/ui-bg_inset-soft_10_285c00_1x100.png) */ 50% bottom repeat-x;
+	color: $dark-color;
+}
+.ui-widget-content a {
+	color: $dark-color;
+}
+.ui-widget-header {
+	border: 1px solid $dark-color;
+	background: $dark-color /* url(images/ui-bg_highlight-soft_33_3a8104_1x100.png) */ 50% 50% repeat-x;
+	color: $logo-color;
+	font-weight: bold;
+}
+.ui-widget-header a {
+	color: $dark-color;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: 1px solid $logo-color;
+	background: $dark-color /* url(images/ui-bg_highlight-soft_60_4ca20b_1x100.png) */ 50% 50% repeat-x;
+	font-weight: bold;
+	color: $light-color;
+	a {
+			color:$light-color;
+			font-weight:normal;
+			text-decoration:none;
+			&:active  {color:$light-color;}
+			&:hover {
+				color:$light-color;
+				text-decoration:underline;
+				}
+			&:link {color:$light-color;}
+			&:visited {color:$light-color;}
+		}
+}
+
+.ui-state-default .ui-accordion-header {
+	a {
+			color:$light-color;
+			font-weight:normal;
+			text-decoration:none;
+			&:active  {color:$light-color;}
+			&:hover {
+				color:$light-color;
+				text-decoration:underline;
+				}
+			&:link {color:$light-color;}
+			&:visited {color:$light-color;}
+		}
+}
+
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus {
+	border: 1px solid $dark-color;
+	background: $logo-color /* url(images/ui-bg_highlight-soft_50_4eb305_1x100.png) */ 50% 50% repeat-x;
+	font-weight: bold;
+	color: $light-color;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+	border: 1px solid $logo-color;
+	background: $dark-color /* url(images/ui-bg_highlight-hard_30_285c00_1x100.png) */ 50% 50% repeat-x;
+	font-weight: normal;
+	color: $light-color;
+}
+
+.ui-button {
+	radius: 0px;
+}

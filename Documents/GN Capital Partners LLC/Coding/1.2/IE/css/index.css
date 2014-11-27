@@ -1,0 +1,262 @@
+	a{
+		color:#1F2033;
+		font-weight:bold;
+	}
+
+	a:link {color:#1F2033;}      /* unvisited link */
+	a:visited {color:#1F2033;}  /* visited link */
+	a:hover {color:#1F2033;} /* mouse over link */
+	a:active {color:#1F2033;} /* selected link */
+	
+	body {
+		font: 100% arial, helvetica, sans-serif;
+		color: #1F2033;
+		background-color:rgba(240, 230, 215, 1);
+		background-image: url('../img/background.jpg') no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-attachment:fixed;
+		background-position:center middle; 
+		}
+	
+	#bottombar {
+		position: fixed;
+		bottom:0px;
+		left:0px;
+		width:100%;
+		margin: 0px;
+		background-color:#1F2033;
+		color:rgba(240, 230, 215, 1);
+		border-radius: 0px;
+		display: block;
+		opacity: 1;
+		z-index: 2;
+		}
+		
+	#bottombar a{
+		color:rgba(240, 230, 215, 1);
+		font-weight:bold;
+	}	
+		
+	#bottombarcontent {
+		position:relative;
+		top: 0px;
+		width: 960px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top:5px;
+		margin-bottom:3px;
+		display: block;
+		opacity:1;
+		}
+
+   #content {
+		position:relative;
+		top: 20px;
+		width: 960px;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+		opacity:1;
+		}
+	
+	#logobox {
+		position: absolute;
+		top:0px;
+		left:0px;
+		width:150px;
+		height: 150px;
+		margin: 5px;
+		border-radius: 15px;
+		display: block;
+		opacity: 1;
+		z-index: 2;
+		}
+
+	#toparea {
+		position: relative;
+		top:0px;
+		left:0px;
+		width:960px;
+		height: 150px;
+		}
+	
+	#topbar {
+		background:#ffcb12 none repeat scroll 0 0;
+		position: absolute;
+		top:0px;
+		left:0px;
+		width:650px;
+		height: 150px;
+		border-radius: 15px;
+		display: block;
+		opacity: .85;
+		z-index: 2;
+		}
+		
+	#toplogo {
+		background-color:rgba(240, 230, 215, 0.7);
+		position: absolute;
+		top:0px;
+		left:0px;
+		width:160px;
+		height: 160px;
+		border-radius: 15px;
+		display: block;
+		opacity: 1;
+		z-index: 2;
+		}
+	
+	#toplogin {
+		position: absolute;
+		top:0px;
+		left:660px;
+		width:320px;
+		max-width:320px;
+		height: 150px;
+		max-height: 150px;
+		display: block;
+		opacity:1;
+		z-index: 2;
+		}
+		
+	#topform {
+		position: relative;
+		top:10px;
+		width:300px;
+		height: 130px;
+		}
+	
+	#mainarea {
+		position: absolute;
+		top:180px;
+		left:0px;
+		width:960px;
+		}
+		
+	#mainleft {
+		background:#ffcb12 none repeat scroll 0 0;
+		position: absolute;
+		top:0px;
+		left:0px;
+		width:160px;
+		height: 500px;
+		border-radius: 15px;
+		display: block;
+		opacity:.85;
+		z-index: 2;
+		}	
+/*		
+	#mainbody {
+		background:#ffcb12 none repeat scroll 0 0;
+		position: absolute;
+		top:0px;
+		left:170px;
+		width:810px;
+		height: 500px;
+		border-radius: 15px;
+		display: block;
+		opacity:.85;
+		z-index: 2;
+		}	
+*/	
+	#mainbody {
+		background-color:rgba(240, 230, 215, 0.7);
+		position: relative;
+		top:0px;
+		left:180px;
+		width:768px;
+		margin-bottom:30px;
+		border-radius: 15px;
+		padding:6px;
+		display: block;
+		opacity: 1;
+		z-index: 2;
+		}
+		
+	#introtopbar {
+		background-color:rgba(240, 230, 215, 0.7);
+		position: absolute;
+		top:0px;
+		left:180px;
+		height:160px;
+		width:780px;
+		border-radius: 15px;
+		display: block;
+		opacity: 1;
+		z-index: 2;
+		}
+	
+	.alert {
+		position:relative;
+		background-color:rgba(255, 58, 0, 0.7);
+		padding:6px;
+		margin-left: auto;
+		margin-right: auto;
+		display: inline-block;
+		border-radius: 15px;
+		opacity: 1;
+		z-index: 2;
+		}
+
+	#registrationtable {
+		width: 600px;
+		border-spacing:5px;
+	}
+	#registrationtable th, td {
+		width: 33%;
+	}
+	#registrationtable th.right, td.right {
+		text-align: right;
+	}
+	#registrationtable th.center, td.center {
+		text-align: center;
+	}
+	#registrationtable th.left, td.left {
+		text-align: left;
+	}
+	#registrationtable th.test, td.test {
+		text-align: center;
+		color: #1F2033;
+		background:#8BD45A none repeat scroll 0 0;
+		border-radius:10px;
+	}
+	#registrationtable th.optional, td.optional {
+		text-align: center;
+		color: #1F2033;
+	}
+	
+	hr {
+		display: block;
+		height: 1px;
+		width: 90%;
+    	border: 0;
+    	border-top: 2px solid #003F1F;
+    	margin: 1em 0;
+    	padding: 0;
+    	}
+    
+    input[type="text"] {
+    	width: 95%;
+    	height: 140%;
+		}
+	
+	input[type="password"] {
+    	width: 95%;
+    	height: 140%;
+		}
+    
+    #registerbutton {
+    	background-color:#1F2033;
+    	color: #8BD45A;
+    	font-size:100%;
+    	width:100%;
+    	box-shadow:3px 3px 2px;
+    	border-style:none;
+    	}
+	
+	
+	

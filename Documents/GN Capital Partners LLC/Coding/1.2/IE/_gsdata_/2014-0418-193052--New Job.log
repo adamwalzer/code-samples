@@ -1,0 +1,755 @@
+2014-04-18 19:30:52: -- New Job: ANALYSIS started by On File Change 1st Full Analyze on '' (GoodSync 4.8.4.4)
+2014-04-18 19:30:52: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 19:30:52: L: State file does not exist: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 19:30:52: L: Files: 300 (excluded 18). Folders: 15 (excluded 2). /dev/disk0s2 HFS, Free: 441.3 GB, Total: 465.0 GB
+2014-04-18 19:30:53: R: State file does not exist: ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 19:31:02: Skip sym link error_logs
+2014-04-18 19:31:02: Skip sym link /stats/error_logs
+2014-04-18 19:31:02: Skip sym link logs
+2014-04-18 19:31:02: Skip sym link /stats/logs
+2014-04-18 19:31:50: R: Files: 980 (excluded 2). Folders: 145 (excluded 1). FTP: --------- Welcome to Pure-FTPd [privsep] [TLS] ----------You are user number 4 of 500 allowed.Local time is now 16:30. Server po ...
+2014-04-18 19:31:50: /activate.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /activaterestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /attributions.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/images/ui-bg_highlight-soft_33_3a8104_1x100.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/images/ui-bg_highlight-soft_50_4eb305_1x100.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/images/ui-bg_highlight-soft_60_4ca20b_1x100.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/images/ui-bg_inset-soft_10_285c00_1x100.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/index.css: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/jquery-ui.css: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/messi.css: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /css/mobilestyle.css: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /edititem.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /edititems.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /editmenu.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /editrestaurantinfo.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /favicon.ico: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /gmu/index.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/background1.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/background2.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/background3.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/background4.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/background5.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/burger.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/glyphicons-halflings-orange.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/glyphicons-halflings-white.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/glyphicons-halflings.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/gmu/1/logo.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/gmu/2/logo.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/gmu/3/logo.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/gmu/5/logo.jpg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/gottaNom.svg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/logo.svg: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/trash.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /img/twitter-icon.png: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/ajax.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/edit.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/googleanalytics.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/introajax.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/jquery-sortable.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/jquery-ui.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/jquery.cookie.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/jquery.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/messi.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /js/mobileajax.js: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /mobile.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /page.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/accountinfopage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/accountinforestaurantpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/accountinforestauranttop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/activate.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/attributions.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/bottombar.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/categoriesdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/categoriespage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/categorypage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/connect.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/connecttowrite.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/customer.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/customerloginform.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/deleteitem.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/deleteorder.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/edithead.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/edititempopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/edititemsdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/edititemstop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/edititemtop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editmenudiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editmenupage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editmenutop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editorder.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editorderitempopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/editorderpopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/forgotpassword.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/forgotpassworddiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/forgotpasswordrestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/forgotpasswordrestaurantdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/head.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/introarea.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/itempopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftcategoriespage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftlocations.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftlocationspage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftorderdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftorderpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftrestaurantlogin.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftrestaurantmenu.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftrestaurantmenuedit.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/leftrestaurantmenuedititem.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetAIM.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetARB.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetCIM.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetCP.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetDPM.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetSIM.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetSOAP.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/AuthorizeNetTD.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/shared/AuthorizeNetRequest.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/shared/AuthorizeNetResponse.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/shared/AuthorizeNetTypes.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/shared/AuthorizeNetXMLResponse.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/lib/ssl/cert.pem: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/locationspage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/login.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/logindiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/loginneworderdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/loginpopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/loginrestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/loginrestaurantdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/logout.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mainarea.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mainbody.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/menupage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobilehead.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobileleftcategories.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobilerestaurantpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobiletopcontent.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobiletoplogo.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobileviewrestaurantdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/mobileviewrestauranttop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/placeorder.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/placeorderdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/placeorderpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registerdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registerpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registerpopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registerpopupdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registerrestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/registeruser.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restauranthours.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantinfotop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantordersmain.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantorderspage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantorderstop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantregisterdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/restaurantregisterpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/revieworderdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/revieworderpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/reviewordertopdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/savemenu.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sessionsignin.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sessionusername.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/socialmenu.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sortlist.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sorttest.html: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sorttest.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/sorttesttop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/startneworder.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/startneworderpopup.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/statepage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/test.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/toparea.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbar.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbaractivate.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarattributions.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarprivacyagreement.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarregister.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarrestaurantregister.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarrestaurantwelcome.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbartermsofuse.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topbarwelcome.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/toplogo.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/toplogointro.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topmobilenav.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topmobilewelcome.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topnav.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topnavintro.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topnavrestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topwelcome.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topwelcomerestaurant.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topwelcomerestaurantedit.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/topwelcomerestaurantedititem.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/updateiteminorder.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/updaterestaurantinfo.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/viewfullorderdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/viewfullorderpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/viewrestaurantdiv.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php/viewrestauranttop.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /php.ini: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /privacyagreement.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /restaurantregister.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /termsofuse.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /viewrestaurantorders.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: /viewrestaurantpage.php: Warning: Older file to replace Newer file
+2014-04-18 19:31:50: Changes: 1195, Conflicts: 0, CopyTime: 0, CopyState: 0/20, Errors: 0
+2014-04-18 19:31:50: Left to Right: Copy File: 295 Delete File: 900 
+2014-04-18 19:31:50: -- Analysis Completed. Time 00:01:00, Speed: Many files/s
+2014-04-18 19:31:50: == New Job: SYNC started by On File Change 1st Full Analyze on ''
+2014-04-18 19:31:50: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 19:31:52: Delete File 'ftp://226.5c3.myftpupload.com/.errordocs/.htaccess'
+2014-04-18 19:31:52: Delete File 'ftp://226.5c3.myftpupload.com/.errordocs/403.html'
+2014-04-18 19:31:52: Delete File 'ftp://226.5c3.myftpupload.com/.errordocs/404.html'
+2014-04-18 19:31:52: Delete File 'ftp://226.5c3.myftpupload.com/.errordocs/missing.html'
+2014-04-18 19:31:52: Delete Folder 'ftp://226.5c3.myftpupload.com/.errordocs'
+2014-04-18 19:31:53: Delete File 'ftp://226.5c3.myftpupload.com/.htaccess'
+2014-04-18 19:31:53: Delete File 'ftp://226.5c3.myftpupload.com/ajax.js'
+2014-04-18 19:31:53: Delete Folder 'ftp://226.5c3.myftpupload.com/cgi'
+2014-04-18 19:31:54: Delete File 'ftp://226.5c3.myftpupload.com/css/ajax.js'
+2014-04-18 19:31:54: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_diagonals-thick_20_666666_40x40.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_flat_10_000000_40x100.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_glass_100_f6f6f6_1x400.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_glass_100_fdf5ce_1x400.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_glass_65_ffffff_1x400.png'
+2014-04-18 19:31:55: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png'
+2014-04-18 19:31:56: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png'
+2014-04-18 19:31:56: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png'
+2014-04-18 19:31:56: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-icons_222222_256x240.png'
+2014-04-18 19:31:56: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-icons_228ef1_256x240.png'
+2014-04-18 19:31:56: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-icons_ef8c08_256x240.png'
+2014-04-18 19:31:57: Delete File 'ftp://226.5c3.myftpupload.com/css/images/ui-icons_ffd27a_256x240.png'
+2014-04-18 19:31:57: Delete File 'ftp://226.5c3.myftpupload.com/css/index2.css'
+2014-04-18 19:31:57: Delete File 'ftp://226.5c3.myftpupload.com/gdform.php'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/img/ajax.js'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/img/background.jpg'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/img/introregisterdiv.php'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/img/key.svg'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/img/register.php'
+2014-04-18 19:31:58: Delete File 'ftp://226.5c3.myftpupload.com/index2.php'
+2014-04-18 19:31:59: Delete File 'ftp://226.5c3.myftpupload.com/js/accountinforestaurantdiv.php'
+2014-04-18 19:31:59: Delete File 'ftp://226.5c3.myftpupload.com/js/connect.php'
+2014-04-18 19:31:59: Delete File 'ftp://226.5c3.myftpupload.com/js/leftorderdiv.php'
+2014-04-18 19:32:00: Delete File 'ftp://226.5c3.myftpupload.com/js/menupage.php'
+2014-04-18 19:32:00: Delete File 'ftp://226.5c3.myftpupload.com/js/revieworderdiv.php'
+2014-04-18 19:32:00: Delete File 'ftp://226.5c3.myftpupload.com/js/savemenu.php'
+2014-04-18 19:32:00: Delete File 'ftp://226.5c3.myftpupload.com/js/sorttest.php'
+2014-04-18 19:32:00: Delete File 'ftp://226.5c3.myftpupload.com/js/style.css'
+2014-04-18 19:32:01: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetAIM.php'
+2014-04-18 19:32:01: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetARB.php'
+2014-04-18 19:32:01: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetCIM.php'
+2014-04-18 19:32:01: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetCP.php'
+2014-04-18 19:32:02: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetDPM.php'
+2014-04-18 19:32:02: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetSIM.php'
+2014-04-18 19:32:02: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetSOAP.php'
+2014-04-18 19:32:02: Delete File 'ftp://226.5c3.myftpupload.com/lib/AuthorizeNetTD.php'
+2014-04-18 19:32:03: Delete File 'ftp://226.5c3.myftpupload.com/lib/shared/AuthorizeNetRequest.php'
+2014-04-18 19:32:03: Delete File 'ftp://226.5c3.myftpupload.com/lib/shared/AuthorizeNetResponse.php'
+2014-04-18 19:32:03: Delete File 'ftp://226.5c3.myftpupload.com/lib/shared/AuthorizeNetTypes.php'
+2014-04-18 19:32:03: Delete File 'ftp://226.5c3.myftpupload.com/lib/shared/AuthorizeNetXMLResponse.php'
+2014-04-18 19:32:04: Delete Folder 'ftp://226.5c3.myftpupload.com/lib/shared'
+2014-04-18 19:32:04: Delete File 'ftp://226.5c3.myftpupload.com/lib/ssl/cert.pem'
+2014-04-18 19:32:04: Delete Folder 'ftp://226.5c3.myftpupload.com/lib/ssl'
+2014-04-18 19:32:05: Delete Folder 'ftp://226.5c3.myftpupload.com/lib'
+2014-04-18 19:32:05: Delete File 'ftp://226.5c3.myftpupload.com/missing.html'
+2014-04-18 19:32:05: Delete File 'ftp://226.5c3.myftpupload.com/mobiletoplogo.php'
+2014-04-18 19:32:05: Delete Folder 'ftp://226.5c3.myftpupload.com/orders'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/accountinfoforrestaurantpage.php'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/ajax.js'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/edit.js'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/editmenu.php'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/editordeerpopup.php'
+2014-04-18 19:32:06: Delete File 'ftp://226.5c3.myftpupload.com/php/edittippopup.php'
+2014-04-18 19:32:07: Delete File 'ftp://226.5c3.myftpupload.com/php/index.php'
+2014-04-18 19:32:07: Delete File 'ftp://226.5c3.myftpupload.com/php/index2.php'
+2014-04-18 19:32:07: Delete File 'ftp://226.5c3.myftpupload.com/php/introregisterdiv.php'
+2014-04-18 19:32:07: Delete File 'ftp://226.5c3.myftpupload.com/php/loginform.php'
+2014-04-18 19:32:07: Delete File 'ftp://226.5c3.myftpupload.com/php/mainleft.php'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/php/mobile.php'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/php/page.php'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/php/privacyagreement.php'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/php/style.css'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/php/style.scss'
+2014-04-18 19:32:08: Delete File 'ftp://226.5c3.myftpupload.com/sortlist.php'
+2014-04-18 19:32:09: Delete File 'ftp://226.5c3.myftpupload.com/stats/.htaccess'
+2014-04-18 19:32:09: Delete File 'ftp://226.5c3.myftpupload.com/stats/.statspwd'
+2014-04-18 19:32:09: Delete File 'ftp://226.5c3.myftpupload.com/stats/index.html'
+2014-04-18 19:32:10: Delete Folder 'ftp://226.5c3.myftpupload.com/stats'
+- ERROR: Cannot delete folder: Server says: Can't remove directory: Directory not empty
+2014-04-18 19:32:10: Delete File 'ftp://226.5c3.myftpupload.com/topbaractivate.php'
+2014-04-18 19:32:10: Delete File 'ftp://226.5c3.myftpupload.com/webformmailer.php'
+2014-04-18 19:32:10: Delete File 'ftp://226.5c3.myftpupload.com/welcome.html'
+2014-04-18 19:32:11: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/arrows-pr-2x.png'
+2014-04-18 19:32:11: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/arrows-pr.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/lock-2x.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/lock.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/post-formats-vs.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/post-formats.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/post-formats32-vs.png'
+2014-04-18 19:32:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images/post-formats32.png'
+2014-04-18 19:32:13: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-admin/images'
+2014-04-18 19:32:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/includes/revision.php'
+2014-04-18 19:32:13: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-admin/includes'
+2014-04-18 19:32:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/js/accordion.js'
+2014-04-18 19:32:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/js/accordion.min.js'
+2014-04-18 19:32:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/js/revisions.js'
+2014-04-18 19:32:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-admin/js/revisions.min.js'
+2014-04-18 19:32:15: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-admin/js'
+2014-04-18 19:32:15: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-admin'
+2014-04-18 19:32:16: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/akismet/img/logo.png'
+2014-04-18 19:32:17: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/akismet/img/logo@2x.png'
+2014-04-18 19:32:17: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/akismet/img'
+2014-04-18 19:32:17: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/akismet'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-client-server.php'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-client.php'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-data.php'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-debugger.php'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-error.php'
+2014-04-18 19:32:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-heartbeat.php'
+2014-04-18 19:32:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack-sync.php'
+2014-04-18 19:32:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/class.jetpack.php'
+2014-04-18 19:32:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-jetpack.css'
+2014-04-18 19:32:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/omnisearch/rtl/omnisearch-jetpack-rtl.css'
+2014-04-18 19:32:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/omnisearch/rtl/omnisearch-rtl.css'
+2014-04-18 19:32:21: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/omnisearch/rtl'
+2014-04-18 19:32:21: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/omnisearch'
+2014-04-18 19:32:21: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/sharedaddy/images/kindle.png'
+2014-04-18 19:32:22: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/sharedaddy/images/kindle@2x.png'
+2014-04-18 19:32:22: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/sharedaddy/images'
+2014-04-18 19:32:22: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules/sharedaddy'
+2014-04-18 19:32:22: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack/modules'
+2014-04-18 19:32:22: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/jetpack'
+2014-04-18 19:32:23: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/.htaccess'
+2014-04-18 19:32:23: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-api.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-installer-skin.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-object-cache.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-plugin-upgrader.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-shortcodes.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-theme-upgrader.php'
+2014-04-18 19:32:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-upgrader.php'
+2014-04-18 19:32:25: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes/index.php'
+2014-04-18 19:32:25: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/classes'
+2014-04-18 19:32:25: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup-banner.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup-banner.min.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup-ie.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup-ie.min.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/gd-quick-setup.min.css'
+2014-04-18 19:32:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css/index.php'
+2014-04-18 19:32:27: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/css'
+2014-04-18 19:32:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/ajax-loader.gif'
+2014-04-18 19:32:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/index.php'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/loading-snake.gif'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-dash-shadow.png'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-dash-sprt.png'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-done-img.png'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-modal-sprt.png'
+2014-04-18 19:32:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-sprt.png'
+2014-04-18 19:32:29: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/q-setup-steps.png'
+2014-04-18 19:32:29: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images/xit.gif'
+2014-04-18 19:32:29: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/images'
+2014-04-18 19:32:29: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/index.php'
+2014-04-18 19:32:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/gd-quick-setup.js'
+2014-04-18 19:32:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/gd-quick-setup.min.js'
+2014-04-18 19:32:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/index.php'
+2014-04-18 19:32:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/jquery.placeholder.js'
+2014-04-18 19:32:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/jquery.placeholder.min.js'
+2014-04-18 19:32:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/jquery.tiptip.js'
+2014-04-18 19:32:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js/jquery.tiptip.min.js'
+2014-04-18 19:32:31: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/js'
+2014-04-18 19:32:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/lang/.htaccess'
+2014-04-18 19:32:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/lang/index.php'
+2014-04-18 19:32:32: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/lang'
+2014-04-18 19:32:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/.htaccess'
+2014-04-18 19:32:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/bad-behavior.php'
+2014-04-18 19:32:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/comprehensive-google-map-plugin.php'
+2014-04-18 19:32:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/contact-form-7.php'
+2014-04-18 19:32:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/disable-comments.php'
+2014-04-18 19:32:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/googleanalytics.php'
+2014-04-18 19:32:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/index.php'
+2014-04-18 19:32:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/jetpack.php'
+2014-04-18 19:32:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/maintenance.php'
+2014-04-18 19:32:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/permalinks.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/pointers.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/reset-db.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/save-options.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/simple-social-buttons.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/theme.php'
+2014-04-18 19:32:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/wordpress-seo.php.php'
+2014-04-18 19:32:36: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules/wp-smushit.php'
+2014-04-18 19:32:36: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/modules'
+2014-04-18 19:32:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/.htaccess'
+2014-04-18 19:32:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-api.php'
+2014-04-18 19:32:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-installer-skin.php'
+2014-04-18 19:32:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-object-cache.php'
+2014-04-18 19:32:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-plugin-upgrader.php'
+2014-04-18 19:32:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-shortcodes.php'
+2014-04-18 19:32:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-theme-upgrader.php'
+2014-04-18 19:32:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/class.gd-quicksetup-upgrader.php'
+2014-04-18 19:32:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes/index.php'
+2014-04-18 19:32:38: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/classes'
+2014-04-18 19:32:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup-banner.css'
+2014-04-18 19:32:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup-banner.min.css'
+2014-04-18 19:32:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup-ie.css'
+2014-04-18 19:32:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup-ie.min.css'
+2014-04-18 19:32:40: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup.css'
+2014-04-18 19:32:40: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/gd-quick-setup.min.css'
+2014-04-18 19:32:40: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css/index.php'
+2014-04-18 19:32:40: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/css'
+2014-04-18 19:32:41: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/ajax-loader.gif'
+2014-04-18 19:32:41: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/index.php'
+2014-04-18 19:32:41: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/loading-snake.gif'
+2014-04-18 19:32:41: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-dash-shadow.png'
+2014-04-18 19:32:42: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-dash-sprt.png'
+2014-04-18 19:32:42: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-done-img.png'
+2014-04-18 19:32:42: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-modal-sprt.png'
+2014-04-18 19:32:42: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-sprt.png'
+2014-04-18 19:32:42: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/q-setup-steps.png'
+2014-04-18 19:32:43: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images/xit.gif'
+2014-04-18 19:32:43: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/images'
+2014-04-18 19:32:43: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/index.php'
+2014-04-18 19:32:44: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/gd-quick-setup.js'
+2014-04-18 19:32:44: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/gd-quick-setup.min.js'
+2014-04-18 19:32:44: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/index.php'
+2014-04-18 19:32:44: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/jquery.placeholder.js'
+2014-04-18 19:32:44: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/jquery.placeholder.min.js'
+2014-04-18 19:32:45: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/jquery.tiptip.js'
+2014-04-18 19:32:45: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js/jquery.tiptip.min.js'
+2014-04-18 19:32:45: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/js'
+2014-04-18 19:32:46: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/lang/.htaccess'
+2014-04-18 19:32:46: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/lang/index.php'
+2014-04-18 19:32:46: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/lang'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/.htaccess'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/bad-behavior.php'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/comprehensive-google-map-plugin.php'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/contact-form-7.php'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/disable-comments.php'
+2014-04-18 19:32:47: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/googleanalytics.php'
+2014-04-18 19:32:48: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/index.php'
+2014-04-18 19:32:48: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/jetpack.php'
+2014-04-18 19:32:48: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/maintenance.php'
+2014-04-18 19:32:48: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/permalinks.php'
+2014-04-18 19:32:48: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/pointers.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/reset-db.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/save-options.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/simple-social-buttons.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/theme.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/wordpress-seo.php.php'
+2014-04-18 19:32:49: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules/wp-smushit.php'
+2014-04-18 19:32:50: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/modules'
+2014-04-18 19:32:50: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/quick-setup.php'
+2014-04-18 19:32:50: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/quick-setup.pot'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/.htaccess'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/build-site-banner.php'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/filesystem-message.php'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/footer.php'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/header.php'
+2014-04-18 19:32:51: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/index.php'
+2014-04-18 19:32:52: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/install.php'
+2014-04-18 19:32:52: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/maintenance.php'
+2014-04-18 19:32:52: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/.htaccess'
+2014-04-18 19:32:53: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/build-site-banner.php'
+2014-04-18 19:32:53: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/config.php'
+2014-04-18 19:32:53: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/filesystem-message.php'
+2014-04-18 19:32:53: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/footer.php'
+2014-04-18 19:32:53: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/header.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/index.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/install.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/maintenance.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/site-built-banner.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/step1.php'
+2014-04-18 19:32:54: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/step2.php'
+2014-04-18 19:32:55: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/step3.php'
+2014-04-18 19:32:55: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources/step4.php'
+2014-04-18 19:32:55: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/resources'
+2014-04-18 19:32:55: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/site-built-banner.php'
+2014-04-18 19:32:55: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/step1.php'
+2014-04-18 19:32:55: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/step2.php'
+2014-04-18 19:32:56: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/step3.php'
+2014-04-18 19:32:56: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources/step4.php'
+2014-04-18 19:32:56: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/resources'
+2014-04-18 19:32:56: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup/uninstall.php'
+2014-04-18 19:32:56: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup'
+2014-04-18 19:32:57: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup.php'
+2014-04-18 19:32:57: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/quick-setup.pot'
+2014-04-18 19:32:57: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/.htaccess'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/build-site-banner.php'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/filesystem-message.php'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/footer.php'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/header.php'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/index.php'
+2014-04-18 19:32:58: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/install.php'
+2014-04-18 19:32:59: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/maintenance.php'
+2014-04-18 19:32:59: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/.htaccess'
+2014-04-18 19:32:59: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/build-site-banner.php'
+2014-04-18 19:33:00: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/config.php'
+2014-04-18 19:33:00: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/filesystem-message.php'
+2014-04-18 19:33:00: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/footer.php'
+2014-04-18 19:33:00: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/header.php'
+2014-04-18 19:33:01: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/index.php'
+2014-04-18 19:33:01: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/install.php'
+2014-04-18 19:33:01: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/maintenance.php'
+2014-04-18 19:33:01: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/site-built-banner.php'
+2014-04-18 19:33:01: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/step1.php'
+2014-04-18 19:33:02: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/step2.php'
+2014-04-18 19:33:02: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/step3.php'
+2014-04-18 19:33:02: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources/step4.php'
+2014-04-18 19:33:02: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/resources'
+2014-04-18 19:33:02: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/site-built-banner.php'
+2014-04-18 19:33:02: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/step1.php'
+2014-04-18 19:33:03: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/step2.php'
+2014-04-18 19:33:03: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/step3.php'
+2014-04-18 19:33:03: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources/step4.php'
+2014-04-18 19:33:03: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/resources'
+2014-04-18 19:33:03: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup/uninstall.php'
+2014-04-18 19:33:04: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/quick-setup'
+2014-04-18 19:33:04: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/lang'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/.htaccess'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/class.wtwp-upgrader.php'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/control-panel.php'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/footer.php'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/header.php'
+2014-04-18 19:33:05: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/help.php'
+2014-04-18 19:33:06: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/.htaccess'
+2014-04-18 19:33:06: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/index.php'
+2014-04-18 19:33:06: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/quickstart_cache.txt'
+2014-04-18 19:33:07: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/quickstart_security.txt'
+2014-04-18 19:33:07: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/wtwp_cache.txt'
+2014-04-18 19:33:07: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess/wtwp_security.txt'
+2014-04-18 19:33:07: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/htaccess'
+2014-04-18 19:33:07: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/index.php'
+2014-04-18 19:33:07: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/install.php'
+2014-04-18 19:33:08: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/object_cache/apc.object-cache.php'
+2014-04-18 19:33:08: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/object_cache/wincache.object-cache.php'
+2014-04-18 19:33:08: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/object_cache'
+2014-04-18 19:33:09: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/pointer.php'
+2014-04-18 19:33:09: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/security.php'
+2014-04-18 19:33:09: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/settings.php'
+2014-04-18 19:33:10: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config/.htaccess'
+2014-04-18 19:33:10: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config/browser_caching.xml'
+2014-04-18 19:33:10: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config/compression.xml'
+2014-04-18 19:33:10: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config/iis_caching.xml'
+2014-04-18 19:33:10: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config/index.php'
+2014-04-18 19:33:11: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/web.config'
+2014-04-18 19:33:11: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources/welcome.php'
+2014-04-18 19:33:11: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/resources'
+2014-04-18 19:33:11: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/uninstall.php'
+2014-04-18 19:33:11: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/welcome-to-wordpress.php'
+2014-04-18 19:33:12: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress/welcome-to-wordpress.pot'
+2014-04-18 19:33:12: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins/welcome-to-wordpress'
+2014-04-18 19:33:12: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/plugins'
+2014-04-18 19:33:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/404.php'
+2014-04-18 19:33:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/archive.php'
+2014-04-18 19:33:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/author-bio.php'
+2014-04-18 19:33:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/author.php'
+2014-04-18 19:33:13: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/category.php'
+2014-04-18 19:33:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/comments.php'
+2014-04-18 19:33:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-aside.php'
+2014-04-18 19:33:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-audio.php'
+2014-04-18 19:33:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-chat.php'
+2014-04-18 19:33:14: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-gallery.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-image.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-link.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-none.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-quote.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-status.php'
+2014-04-18 19:33:15: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content-video.php'
+2014-04-18 19:33:16: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/content.php'
+2014-04-18 19:33:16: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/css/editor-style.css'
+2014-04-18 19:33:16: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/css/ie.css'
+2014-04-18 19:33:17: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/css'
+2014-04-18 19:33:17: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/COPYING.txt'
+2014-04-18 19:33:17: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.eot'
+2014-04-18 19:33:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.svg'
+2014-04-18 19:33:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.ttf'
+2014-04-18 19:33:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.woff'
+2014-04-18 19:33:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/genericons.css'
+2014-04-18 19:33:18: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts/LICENSE.txt'
+2014-04-18 19:33:18: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/fonts'
+2014-04-18 19:33:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/footer.php'
+2014-04-18 19:33:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/functions.php'
+2014-04-18 19:33:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/header.php'
+2014-04-18 19:33:19: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/image.php'
+2014-04-18 19:33:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/dotted-line-2x.png'
+2014-04-18 19:33:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/dotted-line-light-2x.png'
+2014-04-18 19:33:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/dotted-line-light.png'
+2014-04-18 19:33:20: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/dotted-line.png'
+2014-04-18 19:33:21: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/circle-thumbnail.png'
+2014-04-18 19:33:21: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/circle.png'
+2014-04-18 19:33:21: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/diamond-thumbnail.png'
+2014-04-18 19:33:21: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/diamond.png'
+2014-04-18 19:33:22: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/star-thumbnail.png'
+2014-04-18 19:33:22: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers/star.png'
+2014-04-18 19:33:22: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/headers'
+2014-04-18 19:33:22: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/search-icon-2x.png'
+2014-04-18 19:33:22: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images/search-icon.png'
+2014-04-18 19:33:23: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/images'
+2014-04-18 19:33:23: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/inc/back-compat.php'
+2014-04-18 19:33:23: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/inc/custom-header.php'
+2014-04-18 19:33:24: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/inc'
+2014-04-18 19:33:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/index.php'
+2014-04-18 19:33:24: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/js/functions.js'
+2014-04-18 19:33:25: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/js/html5.js'
+2014-04-18 19:33:25: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/js/theme-customizer.js'
+2014-04-18 19:33:25: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/js'
+2014-04-18 19:33:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/languages/twentythirteen.pot'
+2014-04-18 19:33:26: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/languages'
+2014-04-18 19:33:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/page.php'
+2014-04-18 19:33:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/rtl.css'
+2014-04-18 19:33:26: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/screenshot.png'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/search.php'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/sidebar-main.php'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/sidebar.php'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/single.php'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/style.css'
+2014-04-18 19:33:27: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/tag.php'
+2014-04-18 19:33:28: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen/taxonomy-post_format.php'
+2014-04-18 19:33:28: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes/twentythirteen'
+2014-04-18 19:33:28: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content/themes'
+2014-04-18 19:33:28: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-content'
+2014-04-18 19:33:29: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/css/wp-auth-check.css'
+2014-04-18 19:33:29: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/css/wp-auth-check.min.css'
+2014-04-18 19:33:29: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes/css'
+2014-04-18 19:33:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/getid3.lib.php'
+2014-04-18 19:33:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/getid3.php'
+2014-04-18 19:33:30: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/license.commercial.txt'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/license.txt'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio-video.asf.php'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio-video.flv.php'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio-video.matroska.php'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio-video.quicktime.php'
+2014-04-18 19:33:31: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio-video.riff.php'
+2014-04-18 19:33:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio.ac3.php'
+2014-04-18 19:33:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio.dts.php'
+2014-04-18 19:33:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio.flac.php'
+2014-04-18 19:33:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio.mp3.php'
+2014-04-18 19:33:32: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.audio.ogg.php'
+2014-04-18 19:33:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.tag.apetag.php'
+2014-04-18 19:33:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.tag.id3v1.php'
+2014-04-18 19:33:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.tag.id3v2.php'
+2014-04-18 19:33:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/module.tag.lyrics3.php'
+2014-04-18 19:33:33: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3/readme.txt'
+2014-04-18 19:33:33: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes/ID3'
+2014-04-18 19:33:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/heartbeat.js'
+2014-04-18 19:33:34: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/heartbeat.min.js'
+2014-04-18 19:33:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/jquery/jquery-migrate.js'
+2014-04-18 19:33:35: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/jquery/jquery-migrate.min.js'
+2014-04-18 19:33:35: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/jquery'
+2014-04-18 19:33:36: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/background.png'
+2014-04-18 19:33:36: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/bigplay.png'
+2014-04-18 19:33:36: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/bigplay.svg'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/controls.png'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/controls.svg'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/flashmediaelement.swf'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/loading.gif'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/mediaelement-and-player.min.js'
+2014-04-18 19:33:37: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/mediaelementplayer.min.css'
+2014-04-18 19:33:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/silverlightmediaelement.xap'
+2014-04-18 19:33:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/wp-mediaelement.css'
+2014-04-18 19:33:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement/wp-mediaelement.js'
+2014-04-18 19:33:38: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/mediaelement'
+2014-04-18 19:33:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-auth-check.js'
+2014-04-18 19:33:38: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-auth-check.min.js'
+2014-04-18 19:33:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-backbone.js'
+2014-04-18 19:33:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-backbone.min.js'
+2014-04-18 19:33:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-util.js'
+2014-04-18 19:33:39: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js/wp-util.min.js'
+2014-04-18 19:33:39: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes/js'
+2014-04-18 19:33:40: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/post-formats.php'
+2014-04-18 19:33:40: Delete File 'ftp://226.5c3.myftpupload.com/wp/wp-includes/revision.php'
+2014-04-18 19:33:40: Delete Folder 'ftp://226.5c3.myftpupload.com/wp/wp-includes'
+2014-04-18 19:33:40: Delete Folder 'ftp://226.5c3.myftpupload.com/wp'
+2014-04-18 19:33:41: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/ajax.js'
+2014-04-18 19:33:42: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/arrows-pr-2x.png'
+2014-04-18 19:33:42: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/arrows-pr.png'
+2014-04-18 19:33:42: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/lock-2x.png'
+2014-04-18 19:33:42: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/lock.png'
+2014-04-18 19:33:42: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/post-formats-vs.png'
+2014-04-18 19:33:43: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/post-formats.png'
+2014-04-18 19:33:43: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/post-formats32-vs.png'
+2014-04-18 19:33:43: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/images/post-formats32.png'
+2014-04-18 19:33:43: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-admin/images'
+2014-04-18 19:33:44: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/includes/revision.php'
+2014-04-18 19:33:44: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-admin/includes'
+2014-04-18 19:33:45: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/js/accordion.js'
+2014-04-18 19:33:45: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/js/accordion.min.js'
+2014-04-18 19:33:45: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/js/revisions.js'
+2014-04-18 19:33:45: Delete File 'ftp://226.5c3.myftpupload.com/wp-admin/js/revisions.min.js'
+2014-04-18 19:33:45: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-admin/js'
+2014-04-18 19:33:45: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-admin'
+2014-04-18 19:33:47: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/akismet/img/logo.png'
+2014-04-18 19:33:47: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/akismet/img/logo@2x.png'
+2014-04-18 19:33:47: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/akismet/img'
+2014-04-18 19:33:47: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/akismet'
+2014-04-18 19:33:48: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-client-server.php'
+2014-04-18 19:33:48: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-client.php'
+2014-04-18 19:33:48: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-data.php'
+2014-04-18 19:33:49: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-debugger.php'
+2014-04-18 19:33:49: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-error.php'
+2014-04-18 19:33:49: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-heartbeat.php'
+2014-04-18 19:33:49: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack-sync.php'
+2014-04-18 19:33:49: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/class.jetpack.php'
+2014-04-18 19:33:50: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/languages/jetpack-ur.mo'
+2014-04-18 19:33:50: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/languages'
+2014-04-18 19:33:51: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics/admin.css'
+2014-04-18 19:33:51: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics/comics.css'
+2014-04-18 19:33:52: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics/comics.js'
+2014-04-18 19:33:52: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics/rtl/comics-rtl.css'
+2014-04-18 19:33:52: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics/rtl'
+2014-04-18 19:33:53: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics'
+2014-04-18 19:33:53: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/comics.php'
+2014-04-18 19:33:53: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/testimonial.php'
+2014-04-18 19:33:53: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types/testimonials.php'
+2014-04-18 19:33:54: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/custom-post-types'
+2014-04-18 19:33:55: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-jetpack.css'
+2014-04-18 19:33:55: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/omnisearch/rtl/omnisearch-jetpack-rtl.css'
+2014-04-18 19:33:56: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/omnisearch/rtl/omnisearch-rtl.css'
+2014-04-18 19:33:56: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/omnisearch/rtl'
+2014-04-18 19:33:56: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/omnisearch'
+2014-04-18 19:33:57: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/publicize/assets/path-logo.png'
+2014-04-18 19:33:57: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/publicize/assets'
+2014-04-18 19:33:57: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/publicize'
+2014-04-18 19:33:58: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/sharedaddy/images/kindle.png'
+2014-04-18 19:33:58: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/sharedaddy/images/kindle@2x.png'
+2014-04-18 19:33:59: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/sharedaddy/images'
+2014-04-18 19:33:59: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules/sharedaddy'
+2014-04-18 19:33:59: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack/modules'
+2014-04-18 19:33:59: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/jetpack'
+2014-04-18 19:34:00: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/.htaccess'
+2014-04-18 19:34:00: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-api.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-installer-skin.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-object-cache.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-plugin-upgrader.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-shortcodes.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-theme-upgrader.php'
+2014-04-18 19:34:01: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/class.gd-quicksetup-upgrader.php'
+2014-04-18 19:34:02: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes/index.php'
+2014-04-18 19:34:02: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/classes'
+2014-04-18 19:34:03: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup-banner.css'
+2014-04-18 19:34:03: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup-banner.min.css'
+2014-04-18 19:34:03: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup-ie.css'
+2014-04-18 19:34:03: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup-ie.min.css'
+2014-04-18 19:34:03: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup.css'
+2014-04-18 19:34:04: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/gd-quick-setup.min.css'
+2014-04-18 19:34:04: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css/index.php'
+2014-04-18 19:34:04: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/css'
+2014-04-18 19:34:05: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/ajax-loader.gif'
+2014-04-18 19:34:05: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/index.php'
+2014-04-18 19:34:05: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/loading-snake.gif'
+2014-04-18 19:34:05: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-dash-shadow.png'
+2014-04-18 19:34:05: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-dash-sprt.png'
+2014-04-18 19:34:06: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-done-img.png'
+2014-04-18 19:34:06: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-modal-sprt.png'
+2014-04-18 19:34:06: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-sprt.png'
+2014-04-18 19:34:06: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/q-setup-steps.png'
+2014-04-18 19:34:06: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images/xit.gif'
+2014-04-18 19:34:07: Delete Folder 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/images'
+2014-04-18 19:34:07: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/index.php'
+2014-04-18 19:34:07: Delete File 'ftp://226.5c3.myftpupload.com/wp-content/plugins/quick-setup/js/gd-quick-setup.js'
+- ERROR: Cannot create history folder: Creating folder: receiving line: [receiving data 226.5c3.myftpupload.com:21]: Bad socket descriptor
+2014-04-18 19:34:07: Save State File /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 19:34:08: FTP: reconnect succeeded
+2014-04-18 19:34:09: Save State File ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 19:34:09: stopped by User Request
+2014-04-18 19:34:09: 

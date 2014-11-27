@@ -1,0 +1,14 @@
+2014-04-18 20:26:58: -- Gottanom: ANALYSIS started by On File Change Incremental on '' (GoodSync 4.8.4.4)
+2014-04-18 20:26:58: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:26:58: Change in: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/php/mobileviewrestaurantdiv.php
+2014-04-18 20:26:59: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:26:59: Left to Right: Copy File: 1 
+2014-04-18 20:26:59: -- Analysis Completed. Time 00:00:03, Speed: 112 files/s
+2014-04-18 20:26:59: == Gottanom: SYNC started by On File Change Incremental on ''
+2014-04-18 20:26:59: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:27:00: Copy Over '/Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/php/mobileviewrestaurantdiv.php' -> 'ftp://226.5c3.myftpupload.com/php/mobileviewrestaurantdiv.php'
+2014-04-18 20:27:00: Save State File /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 20:27:01: Save State File ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 20:27:02: Items Synced OK: 1, Errors: 0
+2014-04-18 20:27:02: == Sync Completed. Time: 00:00:03, Speed: 9.3 KB/s
+2014-04-18 20:27:02: 

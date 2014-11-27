@@ -1,0 +1,213 @@
+<br>
+				<a href='javascript:setTopLogin(".'"customerloginform.php"'.")'>Customer Login</a>
+				<br>
+				<a href='javascript:setTopLogin(".'"restaurantloginform.php"'.")'>Restaurant Login</a>
+				<br>
+				<a href='javascript:setMain(".'"registerpage.php"'.")'>Register</a>
+
+
+
+
+
+
+
+/*	
+	$.get('../php/' + page, function(responseTxt)
+	{
+        alert(2);
+        alert(responseTxt);
+        
+        //Get a div from the html by it's id
+        var topFractionDiv = $('#top', responseTxt);
+        
+        alert(3);
+
+		document.getElementById("toplogin").innerHTML=topFractionDiv;
+
+        //Append the div to the body
+        //$('body').append($someFractionDiv);
+	});
+*/
+/*
+	var xmlhttp;
+	xmlhttp = getXMLhttp();
+	xmlhttp.open("POST","../php/" + page,true);
+	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp.send();
+	xmlhttp.onreadystatechange=function()
+	{
+		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			document.getElementById("mainbody").innerHTML=xmlhttp.responseText;
+		}
+	}
+*/	
+/*
+	var postdata = {};
+	var path = '../php/' + page;
+	alert(path);
+
+	$.load(path #top, postdata, function(responseTxt)
+	{
+    	document.getElementById("introtopbar").innerHTML=responseTxt;
+*/    	
+    	/*
+    	alert(2);
+    	// do something here with the returnedData
+    	var responseData = jQuery.parseJSON(responseTxt);
+    	alert(responseData);
+    	document.getElementById("mainbody").innerHTML=responseData.main;
+    	*/
+    	
+    	/*
+		$('#introtopbar').html(responseData.topbar);
+		*/
+		
+		/*
+    	document.getElementById("mainbody").innerHTML=responseTxt.filter(#main);
+    	*/
+    	
+    	/*
+    	document.getElementById("mainbody").innerHTML=responseTxt.find(#main);
+    	document.getElementById("introtopbar").innerHTML=responseTxt.find(#topbar);
+    	*/
+/*	});
+	
+	alert(3);
+*/
+
+
+
+
+
+
+
+
+
+
+
+//alert(1);
+	
+		/*
+		idleTime = 0;
+		$(document).ready(function () {
+			//Increment the idle time counter every minute.
+			var idleInterval = setInterval(timerIncrement, 1*60*1000); // 1 minutes
+
+			//Zero the idle timer on mouse movement.
+			$(this).mousemove(function (e) {
+				idleTime = 0;
+			});
+			$(this).keypress(function (e) {
+				idleTime = 0;
+			});
+		});
+
+		function timerIncrement() {
+			idleTime = idleTime + 1;
+			if (idleTime >= 1) { // 20 minutes
+				window.location.reload();
+			}
+		}
+		*/
+	
+		/*
+		var idleTime = new Date();
+		idleTime.setMinutes(idleTime.getMinutes() + 15);
+		$(document).ready(function () {
+			//Increment the idle time counter every minute.
+			var idleInterval = setInterval(timerIncrement, 1*60*1000); // 1 minutes
+
+			//Zero the idle timer on mouse movement.
+			$(this).mousemove(function (e) {
+				idleTime = new Date();
+				idleTime.setMinutes(idleTime.getMinutes() + 15);
+			});
+			$(this).keypress(function (e) {
+				idleTime = new Date();
+				idleTime.setMinutes(idleTime.getMinutes() + 15);
+			});
+		});
+
+		function timerIncrement()
+		{
+			var currentTime = new Date();
+			if (currentTime > idleTime)
+			{
+				window.location.reload();
+			}
+		}
+		*/
+	
+		/*
+		$(document).idleTimer(100);
+		$(document).on( "idle.idleTimer", function(){
+			alert('reload');
+			//location.reload();
+		});
+		*/
+	
+		//alert(2);
+
+		/*
+		if(!$.cookie("restaurant"))
+		{
+			var postdata = {};
+			$.post('../php/currentaddressvariables.php', postdata, function(responseTxt)
+			{
+				//alert(responseTxt);
+				responseTxt = '<xml version="1.0" >' + responseTxt;
+				//alert(responseTxt);
+		
+				$(responseTxt).find("variable").each(function()
+				{
+					//alert($(this).attr('name'));
+					SESSION[$(this).attr('name')] = $(this).text();
+				});
+		
+				//alert(SESSION['user_id']);
+		
+				if(!SESSION['current_address'])
+				{
+					if(!SESSION['user_id'])
+					{
+						var postdata = {};
+						$.post('../php/currentaddressloginpopup.php', postdata, function(currentAddressResponseTxt)
+						{
+							// do something here with the returnedData
+							currentAddressPopupDialog = $('<div id="dialogDiv" title="Login"><span id="dialogMsg">'+currentAddressResponseTxt+'</span></div>');
+	
+							currentAddressPopupDialog.dialog({
+								modal: true,
+								draggable: false,
+								resizable: false,
+								width: 620,
+								beforeClose: function() { $(this).dialog('destroy').remove(); }
+							});
+	
+							currentAddressPopupDialog.dialog("open");
+						});
+					}
+					else
+					{
+						var postdata = {};
+						$.post('../php/currentaddresspopup.php', postdata, function(currentAddressResponseTxt)
+						{
+							// do something here with the returnedData
+							currentAddressPopupDialog = $('<div id="dialogDiv" title="Login"><span id="dialogMsg">'+currentAddressResponseTxt+'</span></div>');
+	
+							currentAddressPopupDialog.dialog({
+								modal: true,
+								draggable: false,
+								resizable: false,
+								width: 620,
+								beforeClose: function() { $(this).dialog('destroy').remove(); }
+							});
+	
+							currentAddressPopupDialog.dialog("open");
+						});
+					}
+				}
+			});
+		}
+		*/

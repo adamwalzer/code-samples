@@ -1,0 +1,21 @@
+2014-04-18 20:56:44: -- Gottanom: ANALYSIS started by On File Change 1st Full Analyze on '' (GoodSync 4.8.4.4)
+2014-04-18 20:56:44: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:56:44: L: Files: 301 (excluded 18). Folders: 15 (excluded 2). /dev/disk0s2 HFS, Free: 441.2 GB, Total: 465.0 GB
+2014-04-18 20:56:52: Skip sym link error_logs
+2014-04-18 20:56:52: Skip sym link /stats/error_logs
+2014-04-18 20:56:52: Skip sym link logs
+2014-04-18 20:56:52: Skip sym link /stats/logs
+2014-04-18 20:56:52: R: Files: 301 (excluded 2). Folders: 16 (excluded 1). FTP: --------- Welcome to Pure-FTPd [privsep] [TLS] ----------You are user number 4 of 500 allowed.Local time is now 17:56. Server po ...
+2014-04-18 20:56:52: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-04-18 20:56:52: Left to Right: Delete File: 1 
+2014-04-18 20:56:52: -- Analysis Completed. Time 00:00:10, Speed: 33 files/s
+2014-04-18 20:56:52: == Gottanom: SYNC started by On File Change 1st Full Analyze on ''
+2014-04-18 20:56:52: /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1 [TmpDest] =PropDels=> ftp://226.5c3.myftpupload.com [TmpDest], WaitForLocksMinutes=20, ReconnectSecs=120
+2014-04-18 20:56:53: Delete Folder 'ftp://226.5c3.myftpupload.com/stats'
+- ERROR: Cannot delete folder: Server says: Can't remove directory: Directory not empty
+2014-04-18 20:56:53: Save State File /Users/temp/Google Drive/GN Capital Partners LLC/Coding/gottanom a.1/_gsdata_/_file_state_v4._gs
+2014-04-18 20:56:53: Save State File ftp://226.5c3.myftpupload.com/_gsdata_/_file_state_v4._gs
+2014-04-18 20:56:54: Sync finished with 1 errors. Click Errors button to see sync errors
+2014-04-18 20:56:54: Items Synced OK: 0, Errors: 1
+2014-04-18 20:56:54: == Sync Completed. Time: 00:00:02, Speed: 13.1 KB/s
+2014-04-18 20:56:54: 
